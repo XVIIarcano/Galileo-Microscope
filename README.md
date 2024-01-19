@@ -1,6 +1,6 @@
 # MICROstack modular microscope
 
-![Pictures/render.PNG]
+![Pictures/render.PNG]https://github.com/XVIIarcano/MICROstack/blob/main/Pictures/render.PNG
 
 # MICROwhat?
 This project is about an affordable, expandable and customizeable microscope based around basic hardware and 3d printing.
