@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ThreadType>
-  <Name>3DPrintThread</Name>
-  <CustomName>3DPrintThread</CustomName>
+  <Name>RMS for microscopes</Name>
+  <CustomName>RMS for microscopes</CustomName>
   <Unit>mm</Unit>
   <Angle>90</Angle>
   <SortOrder>1</SortOrder>
   <ThreadSize>
-    <Size>3</Size>
+    <Size>20.32</Size>
     <Designation>
-      <ThreadDesignation>RMS female 20.32x0.71</ThreadDesignation>
-      <CTD>RMS female 20.32x0.71</CTD>
+      <ThreadDesignation>RMS female</ThreadDesignation>
+      <CTD>20.32x0.71</CTD>
       <Pitch>0.710</Pitch>
       <Thread>
         <Gender>internal</Gender>
