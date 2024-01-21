@@ -1,0 +1,26 @@
+Modify the thread library
+Use the following steps to set custom thread parameters and have them appear in the Create > Thread menu in Fusion:
+
+Allow access to hidden files and directories. 
+How to turn on hidden files and folders on Windows
+How to Access Hidden User Library folder on macOS
+Browse to the following directory:
+Windows:
+%localappdata%\Autodesk\webdeploy\Production\<version ID>\Fusion\Server\Fusion\Configuration\ThreadData
+
+macOS:
+Macintosh HD> Users> [Username] > Library > Application Support > Autodesk > Webdeploy > production > [Version specific ID] > Then right click "Autodesk Fusion 360" and choose Show Package Contents > Contents > Libraries > Applications > Fusion > Fusion > Server > Fusion > Configuration >ThreadData
+A video showing how to find this location in Finder is linked here.
+Create a copy of the XML thread family that needs to be customized and rename file, for instance:
+"ACMEScrewThreads.xml" copy to "CustomACMEThread.xml"
+Open the copied file "CustomACMEThread.xml". Use a program like Notepad++ or Microsoft Visual Studio to open the XML file. 
+Modify the name line for the custom thread. 
+(For example, Change "<Name>ACME Screw Threads</Name>" to "<Name>My Customize Threads</Name>")
+Note: all names must be unique.
+Customize other parameters such as pitch, diameter, etc.
+Save the XML.
+Notes: 
+If this design file is used in Fusion when there is no access to the customized XML file, the following error message may appear:
+"...the current thread family has no suitable type..."
+When modifying a standard thread type, the design file will be modified back to the standard settings if the feature is recomputed on a machine without access to the customized thread XML file. 
+When using this procedure to create a custom thread in Fusion, the XML specific formatting is important. XML typos or syntax errors can cause problems in which standard threads are removed from Fusion, and preventing the custom threads from being used in the program. Using an XML Parser such as this one can help to confirm that the syntax is correct.
