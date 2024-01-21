@@ -3,7 +3,7 @@
   <Name>RMS for microscopes</Name>
   <CustomName>RMS for microscopes</CustomName>
   <Unit>mm</Unit>
-  <Angle>90</Angle>
+  <Angle>60</Angle>
   <SortOrder>1</SortOrder>
   <ThreadSize>
     <Size>20.32</Size>
@@ -13,7 +13,7 @@
       <Pitch>0.710</Pitch>
       <Thread>
         <Gender>internal</Gender>
-        <Class>0.2</Class>
+        <Class>6g</Class>
         <MajorDia>20.446</MajorDia>
         <PitchDia>19.896</PitchDia>
         <MinorDia>19.592</MinorDia>
