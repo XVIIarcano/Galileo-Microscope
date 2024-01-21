@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ThreadType>
+  <Name>3DPrintThread</Name>
+  <CustomName>3DPrintThread</CustomName>
+  <Unit>mm</Unit>
+  <Angle>90</Angle>
+  <SortOrder>1</SortOrder>
+  <ThreadSize>
+    <Size>3</Size>
+    <Designation>
+      <ThreadDesignation>RMS female 20.32x0.71</ThreadDesignation>
+      <CTD>RMS female 20.32x0.71</CTD>
+      <Pitch>0.710</Pitch>
+      <Thread>
+        <Gender>internal</Gender>
+        <Class>0.2</Class>
+        <MajorDia>20.446</MajorDia>
+        <PitchDia>19.896</PitchDia>
+        <MinorDia>19.592</MinorDia>
+      </Thread>
+    </Designation>
+  </ThreadSize>
+ </ThreadType>
