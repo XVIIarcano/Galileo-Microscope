@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ThreadType>
+  <Name>Special 45 degrees Threads</Name>
+  <CustomName>Special 45 degrees Threads</CustomName>
+  <Unit>mm</Unit>
+  <Angle>90</Angle>
+  <SortOrder>1</SortOrder>
+  <ThreadSize>
+    <Size>36</Size>
+    <Designation>
+      <ThreadDesignation>3D36x3.8</ThreadDesignation>
+      <CTD>3D36x3.8</CTD>
+      <Pitch>3.826</Pitch>
+      <Thread>
+        <Gender>external</Gender>
+        <Class>0.2</Class>
+        <MajorDia>37.33</MajorDia>
+        <PitchDia>35.717</PitchDia>
+        <MinorDia>34.27</MinorDia>
+      </Thread>
+      <Thread>
+        <Gender>internal</Gender>
+        <Class>0.2</Class>
+        <MajorDia>37.73</MajorDia>
+        <PitchDia>36.283</PitchDia>
+        <MinorDia>34.67</MinorDia>
+      </Thread>
+    </Designation>
+	<Designation>
+      <ThreadDesignation>36x1.4 0.2 tolerance</ThreadDesignation>
+      <CTD>3D36x1.4 0.2 tolerance</CTD>
+      <Pitch>1.42</Pitch>
+      <Thread>
+        <Gender>external</Gender>
+        <Class>0.2</Class>
+        <MajorDia>36.571</MajorDia>
+        <PitchDia>36.061</PitchDia>
+        <MinorDia>35.717</MinorDia>
+      </Thread>
+      <Thread>
+        <Gender>internal</Gender>
+        <Class>0.2</Class>
+        <MajorDia>36.971</MajorDia>
+        <PitchDia>36.627</PitchDia>
+        <MinorDia>36.117</MinorDia>
+      </Thread>
+	</Designation>
+	<Designation>
+      <ThreadDesignation>3D36x1.4 0.3 tolerance</ThreadDesignation>
+      <CTD>36x1.4 0.3 tolerance</CTD>
+      <Pitch>1.46</Pitch>
+	  <Thread>
+        <Gender>external</Gender>
+        <Class>0.3</Class>
+        <MajorDia>36.534</MajorDia>
+        <PitchDia>36.001</PitchDia>
+        <MinorDia>35.717</MinorDia>
+      </Thread>
+      <Thread>
+        <Gender>internal</Gender>
+        <Class>0.3</Class>
+        <MajorDia>37.134</MajorDia>
+        <PitchDia>36.850</PitchDia>
+        <MinorDia>36.317</MinorDia>
+      </Thread>
+    </Designation>
+  </ThreadSize>
+  </ThreadType>
