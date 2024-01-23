@@ -464,6 +464,25 @@
         <MinorDia>34.67</MinorDia>
       </Thread>
     </Designation>
+	<Designation>
+      <ThreadDesignation>3D36x1.4</ThreadDesignation>
+      <CTD>3D36x1.4</CTD>
+      <Pitch>1.42</Pitch>
+      <Thread>
+        <Gender>external</Gender>
+        <Class>0.2</Class>
+        <MajorDia>36.571</MajorDia>
+        <PitchDia>36.144</PitchDia>
+        <MinorDia>35.717</MinorDia>
+      </Thread>
+      <Thread>
+        <Gender>internal</Gender>
+        <Class>0.2</Class>
+        <MajorDia>36.971</MajorDia>
+        <PitchDia>36.627</PitchDia>
+        <MinorDia>36.117</MinorDia>
+      </Thread>
+    </Designation>
   </ThreadSize>
   <ThreadSize>
     <Size>39</Size>
