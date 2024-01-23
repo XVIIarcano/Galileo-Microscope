@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ThreadType>
+  <Name>Special 45 degrees Threads</Name>
+  <CustomName>pecial 45 degrees Threads</CustomName>
+  <Unit>mm</Unit>
+  <Angle>90</Angle>
+  <SortOrder>1</SortOrder>
+  <ThreadSize>
+    <Size>36</Size>
+    <Designation>
+      <ThreadDesignation>3D36x3.8</ThreadDesignation>
+      <CTD>3D36x3.8</CTD>
+      <Pitch>3.826</Pitch>
+      <Thread>
+        <Gender>external</Gender>
+        <Class>0.2</Class>
+        <MajorDia>37.33</MajorDia>
+        <PitchDia>35.717</PitchDia>
+        <MinorDia>34.27</MinorDia>
+      </Thread>
+      <Thread>
+        <Gender>internal</Gender>
+        <Class>0.2</Class>
+        <MajorDia>37.73</MajorDia>
+        <PitchDia>36.283</PitchDia>
+        <MinorDia>34.67</MinorDia>
+      </Thread>
+    </Designation>
+  </ThreadSize>
+  </ThreadType>
