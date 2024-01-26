@@ -4,7 +4,7 @@
 
 ## MICROwhat?
 
-This project is about an affordable, expandable and customizeable microscope based around basic hardware, 3d printing, and the lenses and few specific components which necessarily have to be sourced.
+This project is about an affordable, expandable and customizeable microscope based around basic hardware, 3d printing, and the lenses and few specific microscope components that won't break the bank.
 It started with a father wanting to show micro-critters to his daughter, so the aim is fist and foremost to provide an enjoyable experience exploring small stuff for hobby or home use.
 
 While MICROstack is expandable, its core design prioritizes simplicity and affordability.  
