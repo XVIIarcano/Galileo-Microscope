@@ -26,7 +26,7 @@ The basic configuration consists of the following modules:
 >[!CAUTION] 
 >The current lighting module is admittedly rudimental but do resist the temptation of just skipping it and the base module altogehter, or at least consider safety.  
   
->*The pipes would still need to rise the stage from the floor in order to insert a light, but you must prevent the stage module and all the rest from sliding down. Also, since the modules are just stacked, if you don't lift by the base for transporting it, you may remin with half the microscope in your hands, while the rest has fallen to the floor.*
+>*The pipes would still need to rise the stage from the floor in order to insert a light, but you must prevent the stage module from sliding down. Also, since the intermediate modules are just stacked, if the base isn't secure and you don't lift from it, you may remain with half the microscope in your hands, while the rest has fallen to the floor.*
 
 ## Materials
 
@@ -37,6 +37,7 @@ Please read the instructions there are a couple variants to choose from, and som
 
 ### Generic hardware
 - 3x 25 cm aluminum pipes spans, 12 mm diameter 
+- 6x M5x12 SHCS screws and nuts for locking the pipes
 - 2x M5 threaded rod 80 mm length, 6x M5 nuts and 2x M5 washers for the stage movement
 - 3x M3x30 SHCS screws and nuts for the anti backlash ring
 - 2x M3x12 SHCS screws for the slide holder
