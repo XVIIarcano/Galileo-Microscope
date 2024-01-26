@@ -23,8 +23,9 @@ The basic configuration consists of the following modules:
 - **Optical group** 
 - **Phone holder** 
 
-[!CAUTION] The current lighting module is admittedly rudimental but do resist the temptation of just skipping it and the base module altogehter, or at least consider safety.  
-*The pipes would still need to rise the stage from the floor in order to insert a light, but must prevent the stage module and all the rest from sliding down. Also, since the modules are just stacked, if you dont lift by the base for transporting it, you may remin with half the microscope in your hands, while the rest has fallen to the floor.*
+>[!CAUTION] 
+>The current lighting module is admittedly rudimental but do resist the temptation of just skipping it and the base module altogehter, or at least consider safety.  
+>*The pipes would still need to rise the stage from the floor in order to insert a light, but must prevent the stage module and all the rest from sliding down. Also, since the modules are just stacked, if you dont lift by the base for transporting it, you may remin with half the microscope in your hands, while the rest has fallen to the floor.*
 
 ## Materials
 
