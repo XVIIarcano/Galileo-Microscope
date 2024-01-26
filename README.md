@@ -8,27 +8,24 @@ This project is about an affordable, expandable and customizeable microscope bas
 It started with a father wanting to show micro-critters to his daughter, so the aim is fist and foremost to provide an enjoyable experience exploring small stuff for hobby or home use.
 
 While MICROstack is expandable, its core design prioritizes simplicity and affordability.  
-We measure the success of this project on the fun you will have building it and using it, especially if it will be just a stepping stone for your next instruments and projects.
+We measure the success of this project on the fun you will have building it and using it, **especially** if it will be a stepping stone for more advanced instruments and projects.
 
-If you are already looking for a DIY microscope designed from the ground up to be a high end solution, and a vast selection of upgrades and configurations for addressing specific needs, have a look at the [PUMA project](https://github.com/TadPath/PUMA)
+If you are already looking for a DIY microscope designed from the ground up to be a high end solution, with a vast selection of upgrades and configurations addressing a variety of scientific needs, have a look at the [PUMA project](https://github.com/TadPath/PUMA)
 
-## Core specification
-The core of the structure is formed by the three vertical rods of 12 mm diameter, in an equilateral triangle arrangement of 140 mm diameter (between the centers), with an external perimeter of another 10 mm all around, making the base module diameter 160 mm.
-That's about it, there is no limit on how tall each "layer" should be, on the number of layers, nor on the lenght of the vertical rods, so if you have an idea for a particular lighitng setup, a finer stage module, or something else entirely, all you should do is fit it in a 160 mm diameter cylinder shape (minus the space for the rods).
+## Basic modules
 
-## Base modules
-The basic implementation consists of the following modules:
+The basic configuration consists of the following modules:
 
-- Base 
-This is Literally a dish filled with ballast, not much to see here.
-You can use sand, fishing leads, shot, technically you can even leave it empty or ignore this altogether.
-I recommend 
+- **Base** 
+- **Lighting (bring your own)** 
+- **Stage** 
+- **Standoffs** (choose your size, Standard or clip on)
+- **Optical group** 
+- **Phone holder** 
 
-- Lighting (bring your own), slide a phone in with the torch on
-- Stage
-- Standoffs (either simple or clip on, if you have different objectives and the focused doesn't cover the whole range for all of them)
-- Optical group (this is the only one a bit more complex to put together, but nothing scary)
-- Phone holder to take pictures and brag about your new microscope 
+[!CAUTION]
+The current lighting module is admittedly rudimental but do resist the temptation of just skipping it and the base module altogehter, or at least consider safety.
+*The pipes would still need to rise the stage from the floor in order to insert a light, but must prevent the stage module and all the rest from sliding down. Also, since the modules are just stacked, if you dont lift by the base for transporting it, you may remin with half the microscope in your hands, while the rest has fallen to the floor.*
 
 ## Materials
 
@@ -70,6 +67,11 @@ Entries should be tested in real life, and include a readme file with any necess
 Simple variants, such as longer standoffs, or different tolerances on the optical tube thread, can be just generated from the CAD.
 Please just notify me if you need them, I will generate them and add the STLs accordingly, no need to reinvent the wheel.
 
+## Core specification
+The core of the structure is formed by the three vertical rods of 12 mm diameter, in an equilateral triangle arrangement of 140 mm diameter (between the centers), with an external perimeter of another 10 mm all around, making the base module diameter 160 mm.
+That's about it, there is no limit on how tall each "layer" should be, on the number of layers, nor on the lenght of the vertical rods, so if you have an idea for a particular lighitng setup, a finer stage module, or something else entirely, all you should do is fit it in a 160 mm diameter cylinder shape (minus the space for the rods).
+
+
 ### Wishlist
 
 Below is a small list of things I would like to see, but have not been included in the core project (yet), if someone beats me to them, all the better!
@@ -81,6 +83,7 @@ Below is a small list of things I would like to see, but have not been included 
 - Fine focusing on the optical group
 - Fine movement and backlash compensation fo the stage module
 - A better phone holder  
+- A blank floor/roof and blank "ring" modules to make it easier to experimenting and do one-offs.
 
 ## Licensing
 (Talk to your kids about sharing culture use before someon else does)
