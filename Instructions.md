@@ -22,7 +22,8 @@ A high infill will add to the overall rigidity of the parts, prototyping and tes
 The STLs are already oriented for printing without supports, but some items like the focus tube and the standoffs do require a brim ulness your bed adhesion is exceptional, so you should add it at your discretion.
 The focus tube has a bevel at the extremities, it helps it not to bind towards the bottom of the objective nut, and it will soak up any imperfection as you clena up the brim, but using a deburring tool and doing a clean job is still a good idea.
 
->[!TIP] Do a couple test prints.  
+>[!TIP] 
+>Do a couple test prints.  
 >Print the objective holder nut and a 40 mm section of the focusing tube using the plane cut function of your slicer to test the thread, stiff is ok (it will wear itself down and you will add some grease where it matters), hard binds on the other hand may be a showstopper.   
 >Don't print all at once the parts with nut holes, you don't want to spend half a spool of plastic then discover that your hardware won't fit, the same applies to the pipe holes in the modules. The base module is a good place to start since it has the holes for the pipes, vertical M5 and horizontal M3 nut pits, so you already have a bit of everything.
 
