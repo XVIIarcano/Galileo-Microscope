@@ -33,10 +33,9 @@ Please read the instructions there are a couple variants to choose from, and som
 ### Generic hardware
 - 3x 20 cm aluminum pipes spans, 12 mm diameter 
 - 6x M5x12 SHCS screws and nuts for locking the pipes
-- 2x M5 threaded rod 90 mm length, 6x M5 nuts and 2x M5 washers for the stage movement
+- 2x M5x80 hexagon head bolts, 2x M5 lock nuts and 4x M5 washers for the stage movement.  You can also use M5 threaded rod 90 mm length instead of the bolts, but you will need 2 more locknuts and 2x M5 cap nuts.
 - 3x M3x30 SHCS screws and nuts for the anti backlash ring
 - 2x M3x12 SHCS screws for the slide holder
-- **BLUE!** threadlock 
 - Superlube grease or similar
 - Superglue
 - A bit of oven paper or similar, or a 25 mm diameter disk of 3 mm frosted acrylic if you are feeling dapper

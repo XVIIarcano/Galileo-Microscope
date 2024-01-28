@@ -32,6 +32,8 @@ The focus tube has a bevel at the extremities, it helps it not to bind towards t
 Each module is assembled separatey, then you can simply stack them along the vertical rods and tighten the screws on the base and spider modules.
 You can use one of the rods to "break in" the holes of each module beforehand, so that the stacking will be smoother.
 
+**Unless otherwise noted, all screws are of the SHCS type.** 
+
 ### Base
 
 - (Optional) Add the M3 nuts on the bottom, then use M3x8 screws to secure the three TPU feet.  
@@ -48,11 +50,27 @@ You will slide a cellphone here to provide the lighting, either with the torch o
 
 ### Stage
 
+Remove the integrated supports from the slits in the Stage module, use an M5 screw to file the inside of the slits until it passes freely and slides freely across.
+
+- Add M5 nuts in the verticasl slots of the cart.
+- Add M3x8 screws in the large holes on the cart, thread them in the plastic, until the head pokes out by a bit less than 1 mm, these will serve as stoppers for the slides, so they must be about the same height but not poke above them.
+- Add the clips in the small holes, using the recesses for the nuts on the underside of the cart.
+- Insert a span of 4 mm PTFE tube in the slot on the underside of the cart, it will help it slide smoothly. 
+
+- Insert an M5x80 hexagon head bolt in the knobs, or use one locknut and one capnut as shown in the photo.
+
+- Place the knobs with a washer on each side of the slit in the module body, then tighten a lock nut on the inside by holding it with a wrench as you turn the knob, as shown in the picture, it should be tight enough to hold the knobs in, but free to slide.
+
+- Towards the end of the knob insertion, align it with the nut in the cart, and pull it in. 
+
+
 ### Standoffs
 
 Nothing to do here either, just slide them in place.
 
 ### Optical group
+
+
 
 ### Phone holder
 
