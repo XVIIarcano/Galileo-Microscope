@@ -5,12 +5,12 @@
 ## MICROwhat?
 
 This project is about an affordable, expandable and customizeable microscope based around basic hardware, 3d printing, and the lenses and just a few specific microscope components that cannot be worked around.
-It started with a father wanting to show micro-critters to his daughter, so the aim is fist and foremost to provide an enjoyable experience exploring small stuff for hobby or home use.
+It started with a father without technical or academic knowledge whatsoever wanting to show micro-critters to his daughter, so the aim is fist and foremost to provide an enjoyable experience exploring small stuff for hobby or home use.
 
 While MICROstack is expandable, its core design prioritizes simplicity and affordability.  
-We measure the success of this project on the fun you will have building it and using it, **especially** if it will be a stepping stone for more advanced instruments and projects.
+I measure the success of this project on the fun you will have building it and using it, **especially** if it will be a stepping stone for more advanced instruments and projects.
 
-If you are already looking for a DIY microscope designed from the ground up to be a high end solution, with a vast selection of upgrades and configurations addressing a variety of scientific needs, have a look at the [PUMA project](https://github.com/TadPath/PUMA)
+If you are looking for a DIY microscope already designed from the ground up to be a high end solution, with a vast selection of upgrades and configurations addressing a variety of scientific needs, have a look at the [PUMA project](https://github.com/TadPath/PUMA)
 
 ## Basic modules
 
@@ -31,7 +31,7 @@ The list below covers the bare minimum, as your microscope grows or you choose s
 Please read the instructions there are a couple variants to choose from, and some tips about printing.
 
 ### Generic hardware
-- 3x 25 cm aluminum pipes spans, 12 mm diameter 
+- 3x 20 cm aluminum pipes spans, 12 mm diameter 
 - 6x M5x12 SHCS screws and nuts for locking the pipes
 - 2x M5 threaded rod 80 mm length, 6x M5 nuts and 2x M5 washers for the stage movement
 - 3x M3x30 SHCS screws and nuts for the anti backlash ring
@@ -95,10 +95,10 @@ This project is released under Creative Commons BY-SA-NC license.
 ## Thanks and acknowledgements
 
 Thanks to Maff, who desinged the [Hadley telescope](https://www.printables.com/it/model/224383-astronomical-telescope-hadley-an-easy-assembly-hig) ([Metric version](https://www.printables.com/it/model/268580-hadley-telescope-official-metric-remix)).
-Building and using a Hadley has been the inspiration that made me think this might be possible, and the desing itself of the microscope is directly inspired by Hadley and the Hadley ecosystem.
+Building and using a Hadley has been the inspiration that made me think this might be possible, and the design itself of the microscope is directly inspired by Hadley and the Hadley ecosystem.
 
 Thanks to the Hadley discord community, especially Maff and Baker who encouraged me down this road after seeing the first render that was, at that point, still half a joke in my head.
 They also pointed, and accompanied me, to the next chapter of my acknowledgements.
 
-Thanks to the Microscopy discord community, in particular SmarmyNarwal and Blekenbleu who explained many things to me without patronizing even if I was literally an incompetent barging in with bold ideas.
+Thanks to the Microscopy discord community, in particular SmarmyNarwal and Blekenbleu who explained many things to me without patronizing even if I was literally an incompetent barging in with ideas.
 They helped me understand what I should be aiming for and what challenges I should be aware of.
