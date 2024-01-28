@@ -4,7 +4,7 @@
 
 ## MICROwhat?
 
-This project is about an affordable, expandable and customizeable microscope based around basic hardware, 3d printing, and the lenses and few specific microscope components that won't break the bank.
+This project is about an affordable, expandable and customizeable microscope based around basic hardware, 3d printing, and the lenses and just a few specific microscope components that cannot be worked around.
 It started with a father wanting to show micro-critters to his daughter, so the aim is fist and foremost to provide an enjoyable experience exploring small stuff for hobby or home use.
 
 While MICROstack is expandable, its core design prioritizes simplicity and affordability.  
@@ -22,11 +22,6 @@ The basic configuration consists of the following modules:
 - **Standoffs** (choose your size, Standard or clip on)
 - **Optical group** 
 - **Phone holder** 
-
->[!CAUTION] 
->The current lighting module is admittedly rudimental but do resist the temptation of just skipping it and the base module altogehter, or at least consider safety.  
-  
->*The pipes would still need to rise the stage from the floor in order to insert a light, but you must prevent the stage module from sliding down. Also, since the intermediate modules are just stacked, if the base isn't secure and you don't lift from it, you may remain with half the microscope in your hands, while the rest has fallen to the floor.*
 
 ## Materials
 
@@ -60,6 +55,11 @@ Please read the instructions there are a couple variants to choose from, and som
 - Allen keys matching the screw heads
 - Metal saw for the aluminum tube
 - having Sandpaper around never hurts, but it should not be necessary. 
+
+>[!NOTE]
+>The microscope has been designed and tested around cheap optics from Amazon, using better components will definitely make a difference but if you are in doubt wether to commit money to this project, there is no shame in starting cheap.  
+>Here is an example of what 25,00 Euros of glass can do already (4x objective 10x eyepiece, the small notches are 0.01 mm)
+>![Pictures/example.jpeg](https://github.com/XVIIarcano/MICROstack/blob/main/Pictures/example.jpeg)
 
 ## Modifications and accessories
 
