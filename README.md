@@ -1,6 +1,6 @@
 # MICROstack modular microscope
 
-![Pictures/render.PNG](/Pictures/render.PNG | width 48)
+![Pictures/render.PNG](/Pictures/render.PNG)
 
 ## MICROwhat?
 
