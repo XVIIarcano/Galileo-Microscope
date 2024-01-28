@@ -59,7 +59,7 @@ Please read the instructions there are a couple variants to choose from, and som
 >[!NOTE]
 >The microscope has been designed and tested around cheap optics from Amazon, using better components will definitely make a difference but if you are in doubt wether to commit money to this project, there is no shame in starting cheap.  
 >Here is an example of what 25,00 Euros of glass can do already (4x objective 10x eyepiece, the small notches are 0.01 mm)
->![Pictures/example.jpeg](https://github.com/XVIIarcano/MICROstack/blob/main/Pictures/example.jpeg)
+>![Pictures/example.jpeg](/Pictures/example.jpeg)
 
 ## Modifications and accessories
 
