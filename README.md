@@ -33,7 +33,7 @@ Please read the instructions there are a couple variants to choose from, and som
 ### Generic hardware
 - 3x 20 cm aluminum pipes spans, 12 mm diameter 
 - 6x M5x12 SHCS screws and nuts for locking the pipes
-- 2x M5 threaded rod 80 mm length, 6x M5 nuts and 2x M5 washers for the stage movement
+- 2x M5 threaded rod 90 mm length, 6x M5 nuts and 2x M5 washers for the stage movement
 - 3x M3x30 SHCS screws and nuts for the anti backlash ring
 - 2x M3x12 SHCS screws for the slide holder
 - **BLUE!** threadlock 
@@ -75,16 +75,18 @@ That's about it, there is no limit on how tall each "layer" should be, on the nu
 
 ![Pictures/Base.png](/Pictures/Base.png)
 
-### Wishlist
+### Wishlist and known issues
 
 Below is a small list of things I would like to see, but have not been included in the core project (yet), if someone beats me to them, all the better!
+
+**- Better movement with backlash compensation for the stage module**
+*The stage in its current implementation is finnicky to assemble, and just plain sucks... It is still beter than moving around the stage manually, and it is actually ok-ish if you just need to move the view a couple millimeters at low magnification, but that's about it. Working on it, and sorry for thinking this might work.
 
 - Base alternative with some internal storage or some other solution to store stuff withint the cylinder footprint when not in use
 - A basic lighting module with its own light source, external power and maybe a dimmer knob... 
 - A less basic lighting module with the possibility to mount a condenser, an iris, and other advanced devices 
 - Either a stage or standoff solution integrating a reflected light source ("light from above" in plain english)
 - Fine focusing on the optical group
-- Finer/better movement with backlash compensation for the stage module
 - A better phone holder  
 - A blank floor/roof and blank "ring" modules to make it easier to experimenting and do one-offs (yes, it is a low hanging fruit)
 
