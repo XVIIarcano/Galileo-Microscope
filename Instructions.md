@@ -36,7 +36,8 @@ You can use one of the rods to "break in" the holes of each module beforehand, s
 
 ### Lighting (bring your own)
 
-Nothing to do here, just slide it in place.
+Nothing to do here, just stack it in place.   
+You will slide a cellphone here to provide the lighting, either with the torch or with a browser open on 'about:blank' to have a dimmable white background.
 
 ### Stage
 
