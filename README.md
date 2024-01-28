@@ -59,7 +59,7 @@ Please read the instructions there are a couple variants to choose from, and som
 >[!NOTE]
 >The microscope has been designed and tested around cheap optics from Amazon, using better components will definitely make a difference but if you are in doubt wether to commit money to this project, there is no shame in starting cheap.  
 >Here is an example of what 25,00 Euros of glass can do already (4x objective 10x eyepiece, the small notches are 0.01 mm)
->![Pictures/example.jpeg](/Pictures/example.jpeg)
+>![Pictures/example.jpeg](/Pictures/example.jpeg)![Pictures/example-crop.png](/Pictures/example-crop.png)
 
 ## Modifications and accessories
 
@@ -73,7 +73,7 @@ Please just notify me if you need them, I will generate them and add the STLs ac
 The core of the structure is formed by the three vertical rods of 12 mm diameter, in an equilateral triangle arrangement of 140 mm diameter (between the centers), with an external perimeter of another 10 mm all around, making the base module diameter 160 mm.
 That's about it, there is no limit on how tall each "layer" should be, on the number of layers, nor on the lenght of the vertical rods, so if you have an idea for a particular lighitng setup, a finer stage module, or something else entirely, all you should do is fit it in a 160 mm diameter cylinder shape (minus the space for the rods).
 
-![Pictures/Base.png](https://github.com/XVIIarcano/MICROstack/blob/main/Pictures/Base.png)
+![Pictures/Base.png](/Pictures/Base.png)
 
 ### Wishlist
 
