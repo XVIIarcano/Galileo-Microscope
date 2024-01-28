@@ -79,14 +79,14 @@ That's about it, there is no limit on how tall each "layer" should be, on the nu
 
 Below is a small list of things I would like to see, but have not been included in the core project (yet), if someone beats me to them, all the better!
 
-- Base alternative with some internal storage (has to be taller than the objective nut diameter, to accomodate the objectives sitting on their own ring)
+- Base alternative with some internal storage or some other solution to store stuff withint the cylinder footprint when not in use
 - A basic lighting module with its own light source, external power and maybe a dimmer knob... 
-- A less basic lighting module with the possibility to mount a condenser, an iris, and other 
+- A less basic lighting module with the possibility to mount a condenser, an iris, and other advanced devices 
 - Either a stage or standoff solution integrating a reflected light source ("light from above" in plain english)
 - Fine focusing on the optical group
-- Fine movement and backlash compensation fo the stage module
+- Finer/better movement with backlash compensation for the stage module
 - A better phone holder  
-- A blank floor/roof and blank "ring" modules to make it easier to experimenting and do one-offs.
+- A blank floor/roof and blank "ring" modules to make it easier to experimenting and do one-offs (yes, it is a low hanging fruit)
 
 ## Licensing
 (Talk to your kids about sharing culture use before someon else does)

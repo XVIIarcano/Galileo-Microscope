@@ -34,17 +34,26 @@ You can use one of the rods to "break in" the holes of each module beforehand, s
 
 ### Base
 
+- (Optional) Add the M3 nuts on the bottom, then use M3x8 screws to secure the three TPU feet.  
+
+- (Optional)Fill the cover with something that can act as ballast, sand, fishing leads, shot...     
+Glue the walls of the cover and reverse the base upside down on it, wait for the glue to stick, then flip.  
+
+- Slot in the aluminum rods, and secure them with the M5 nuts and M5x12 screws. 
+
 ### Lighting (bring your own)
 
 Nothing to do here, just stack it in place.   
-You will slide a cellphone here to provide the lighting, either with the torch or with a browser open on 'about:blank' to have a dimmable white background.
+You will slide a cellphone here to provide the lighting, either with the torch or with a browser open on `about:blank` to have a dimmable white background.
 
 ### Stage
 
 ### Standoffs
 
-Nothing to do here, just slide them in place.
+Nothing to do here either, just slide them in place.
 
 ### Optical group
 
 ### Phone holder
+
+In the current implementation this too is just an add on without any required assemblig, just use the accessory ring on the optical group to adjust to the correct eye relief distance for taking good pictures. 
