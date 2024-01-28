@@ -1,6 +1,6 @@
 # MICROstack modular microscope
 
-![Pictures/render.PNG](https://github.com/XVIIarcano/MICROstack/blob/main/Pictures/render.PNG)
+![Pictures/render.PNG](/Pictures/render.PNG)
 
 ## MICROwhat?
 
