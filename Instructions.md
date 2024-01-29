@@ -53,9 +53,12 @@ You will slide a cellphone here to provide the lighting, either with the torch o
 Remove the integrated supports from the slits in the Stage module, use an M5 screw to file the inside of the slits until it passes freely and slides freely across.
 
 - Add M5 nuts in the verticasl slots of the cart.
+
 - Add M3x8 screws in the large holes on the cart, thread them in the plastic, until the head pokes out by a bit less than 1 mm, these will serve as stoppers for the slides, so they must be about the same height but not poke above them.
+
 - Add the clips in the small holes, using the recesses for the nuts on the underside of the cart.
-- Insert a span of 4 mm PTFE tube in the slot on the underside of the cart, it will help it slide smoothly. 
+
+- Insert a span of 4 mm PTFE tube in the slot on the underside of the cart, it will help it slide smoothly.   The tube should snap fit in the slot, push it one section at a time pressing down with a spoon going around the circle, cut off the excess when you get close to the end, cut as close as possible to get a seamless ring, and at a slight angle to prevent any pointy edge from poking out. 
 
 - Insert an M5x80 hexagon head bolt in the knobs, or use one locknut and one capnut as shown in the photo.
 
