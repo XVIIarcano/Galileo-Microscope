@@ -72,24 +72,36 @@ Towards the end of the knob insertion, align it with the nut in the cart, so tha
 
 ### Standoffs
 
-Nothing to do here either, just slide them in place.
+Nothing to see here either, just slide them in place.
 
 ### Optical group
 
 Assemble the objective in the objective holder, the nut has RMS threads on it but it is unlikely that your printer can resolve them correctly, they will help guide the operation, but you will be actually threading the plastic with the metal of the objective. Do it nice and slow, and pay attention not to thread it in at an angle. If you have more than one objective, it mau be a good idea to print  multiple nuts and leave each objective on its own nut.
+
+Test fit the eyepiece in  the optical tube, you can sand the inside or wrap some teflon tape around the eyepiece shaft to adjust the fit.
 
 Apply a little bit of grease on the sloped sides of the collar of the spider, and insert the split ring on it.
 
 Insert M3 nuts in the holes on the bottom side of the focusing knob, then slide it over the split ring (do this upside down, or the nuts will fall off!)
 Do not glue the two parts together just yet, at the end of the assembling, after you check that all is ok, you can make this mating final by applying glue on the split ring (do not exagerate and be careful, you do not want any glue to end up between split ring and spider body).
 
-Insert the springs in the holes on top of the knob.
+Add some grease on the central and upper part of the optical tube, avoid greasing the extremity where the objective nut will be, it is ok if that is a bit stiffer, while all other rings have to turn as smooth as possible.
 
-...
+Insert the tube in the spider from below, rotating the focusing knob as soon as it catches the threads on the tube and draw it up. Be careful, the knob is not glued to the ring yet and there are no screws preventing the nuts to be dislodged if the two pieces separate.
 
+Insert the springs in the holes on top of the knob, then add the anti backlash ring, tighten it down until it compresses the springs. A couple millimeters clearance should remain between the two rings, there are two sets of holes on the backlash ring so that you can adjust it in half a turn increments, you can change this later based on your preference.
 
-Add some grease on the Slide the optical tube in the spider.
+Use M3x30 screws trough the backlash springs and down to the nuts in the fucus ring to secure the assembly together, do not overtighten the screws, and make sure the backlash ring is not tilted.
 
+Test the assembly a few times, any stiffness should break in as the surfaces wear a little and the grease spreads.
+If you are happy with the results, you can now push the optical tube up, this will detach the focus knob from the split ring, and you can add the glue and press it back down.   
+
+>[!TIP] 
+>You do not really need to glue the knob down, the microscope is actually perfectly useable also with the knob just pressed together, in use, you may occasionally experience it pushing up, but it is no big deal, so you can take your time testing, adding (or cleaning off) grease, etc... until you are happy.
+
+Add the accessory ring on the top of the focus tube, followed by the eyepiece, and the objective ring on the bottom.
+
+You can now install the asembly on the lower part of the microscope.
 
 ### Phone holder
 
