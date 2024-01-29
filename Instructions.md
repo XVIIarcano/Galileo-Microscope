@@ -52,23 +52,23 @@ You will slide a cellphone here to provide the lighting, either with the torch o
 
 Remove the integrated supports from the slits in the Stage module, use an M5 screw to file the inside of the slits until it passes freely and slides freely across.
 
-- Add M5 nuts in the verticasl slots of the cart.
+Add M5 nuts in the verticasl slots of the cart.
 
-- Add M3x8 screws in the large holes on the cart, thread them in the plastic, until the head pokes out by a bit less than 1 mm, these will serve as stoppers for the slides, so they must be about the same height but not poke above them.
+Add M3x8 screws in the large holes on the cart, thread them in the plastic, until the head pokes out by a bit less than 1 mm, these will serve as stoppers for the slides, so they must be about the same height but not poke above them.
 
-- Add the clips in the small holes, using the recesses for the nuts on the underside of the cart.
+Add the clips in the small holes, using the recesses for the nuts on the underside of the cart.
 
-- Insert a span of 4 mm PTFE tube in the slot on the underside of the cart, it will help it slide smoothly.   The tube should snap fit in the slot, push it one section at a time pressing down with a spoon going around the circle, cut off the excess when you get close to the end, cut as close as possible to get a seamless ring, and at a slight angle to prevent any pointy edge from poking out. 
+Insert a span of 4 mm PTFE tube in the slot on the underside of the cart, it will help it slide smoothly.   The tube should snap fit in the slot, push it one section at a time pressing down with a spoon going around the circle, cut off the excess when you get close to the end, cut as close as possible to get a seamless ring, and at a slight angle to prevent any pointy edge from poking out. 
 
-- Insert an M5x80 hexagon head bolt in the knobs, or use one locknut and one capnut as shown in the photo.
+Insert an M5x80 hexagon head bolt in the knobs, or use one locknut and one capnut as shown in the photo.
 
 ![Pictures/instructions1.jpg](/Pictures/instructions1.jpg)
 
-- Place the knobs with a washer on each side of the slit in the module body, then tighten a lock nut on the inside by holding it with a wrench as you turn the knob, as shown in the picture, it should be tight enough to hold the knobs in, but free to slide.
+Place the knobs with a washer on each side of the slit in the module body, then tighten a lock nut on the inside by holding it with a wrench as you turn the knob, as shown in the picture, it should be tight enough to hold the knobs in, but free to slide.
 
 ![Pictures/instructions2.jpg](/Pictures/instructions2.jpg)
 
-- Towards the end of the knob insertion, align it with the nut in the cart, so that it will be pulled in.  Do not worry if the screw exits inside the cart by about 1 cm, even at los magnifications, it will remain well outside of the field of view and it won't cast a shadow.
+Towards the end of the knob insertion, align it with the nut in the cart, so that it will be pulled in.  Do not worry if the screw exits inside the cart by about 1 cm, even at los magnifications, it will remain well outside of the field of view and it won't cast a shadow.
 
 ### Standoffs
 
@@ -76,6 +76,19 @@ Nothing to do here either, just slide them in place.
 
 ### Optical group
 
+Assemble the objective in the objective holder, the nut has RMS threads on it but it is unlikely that your printer can resolve them correctly, they will help guide the operation, but you will be actually threading the plastic with the metal of the objective. Do it nice and slow, and pay attention not to thread it in at an angle. If you have more than one objective, it mau be a good idea to print  multiple nuts and leave each objective on its own nut.
+
+Apply a little bit of grease on the sloped sides of the collar of the spider, and insert the split ring on it.
+
+Insert M3 nuts in the holes on the bottom side of the focusing knob, then slide it over the split ring (do this upside down, or the nuts will fall off!)
+Do not glue the two parts together just yet, at the end of the assembling, after you check that all is ok, you can make this mating final by applying glue on the split ring (do not exagerate and be careful, you do not want any glue to end up between split ring and spider body).
+
+Insert the springs in the holes on top of the knob.
+
+...
+
+
+Add some grease on the Slide the optical tube in the spider.
 
 
 ### Phone holder
