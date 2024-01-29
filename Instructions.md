@@ -59,10 +59,13 @@ Remove the integrated supports from the slits in the Stage module, use an M5 scr
 
 - Insert an M5x80 hexagon head bolt in the knobs, or use one locknut and one capnut as shown in the photo.
 
+![Pictures/instructions1.jpg](/Pictures/instructions1.jpg)
+
 - Place the knobs with a washer on each side of the slit in the module body, then tighten a lock nut on the inside by holding it with a wrench as you turn the knob, as shown in the picture, it should be tight enough to hold the knobs in, but free to slide.
 
-- Towards the end of the knob insertion, align it with the nut in the cart, and pull it in. 
+![Pictures/instructions2.jpg](/Pictures/instructions2.jpg)
 
+- Towards the end of the knob insertion, align it with the nut in the cart, so that it will be pulled in.  Do not worry if the screw exits inside the cart by about 1 cm, even at los magnifications, it will remain well outside of the field of view and it won't cast a shadow.
 
 ### Standoffs
 
