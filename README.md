@@ -81,10 +81,10 @@ Below is a small list of things I would like to see, but have not been included 
 - **No.1 priority -> Better movement with backlash compensation for the stage module**  
 The stage in its current implementation is finnicky to assemble, and unpleasant to use...   It is still beter than moving around the stage manually, and it is actually ok-ish if you just need to move the view around a couple millimeters at low magnification, but that's about it.
 
-- Base alternative with some internal storage or some other solution to store stuff withint the cylinder footprint when not in use
-- A basic lighting module with its own light source, external power and maybe a dimmer knob... 
-- A less basic lighting module with the possibility to mount a condenser, an iris, and other advanced devices 
-- Either a stage or standoff solution integrating a reflected light source ("light from above" in plain english)
+- Base alternative with some internal storage or some other solution to store stuff within the cylinder footprint when not in use
+- A basic lighting module with its own light source, external power and a dimmer knob... 
+- A less basic lighting module with the possibility to mount light modifiers like a condenser and an iris.
+- Either a stage or standoff solution to integrate a reflected light source ("light from above" in plain english)
 - Fine focusing on the optical group
 - A better phone holder  
 - A blank floor/roof and blank "ring" modules to make it easier to experimenting and do one-offs (yes, it is a low hanging fruit)
