@@ -80,4 +80,4 @@ Nothing to do here either, just slide them in place.
 
 ### Phone holder
 
-In the current implementation this too is just an add on without any required assemblig, just use the accessory ring on the optical group to adjust to the correct eye relief distance for taking good pictures. 
+Print the main body, and an insert to suit the clearance between the body and your specific eyepiece, the insert just slides in, and you can have more than one for different eyepieces. Install the phone holder by sliding it on the eyepiece, and use the accessory ring on the optical tube to move the support higher or lower based on the eye-relief distance of your eyepiece. 
