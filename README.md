@@ -28,7 +28,7 @@ The basic configuration consists of the following modules:
 The list below covers the bare minimum, as your microscope grows or you choose some variant or another for the various modules, the list of what you need may change as well.
 
 ### 3d printed parts
-Please read the instructions there are a couple variants to choose from, and some tips about printing.
+Please read the [instructions](/Instructions.md) there are a couple variants to choose from, and some tips about printing.
 
 ### Generic hardware
 - 3x 20 cm aluminum pipes spans, 12 mm diameter 
