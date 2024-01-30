@@ -4,13 +4,14 @@
 
 ## MICROwhat?
 
-This project is about an affordable, expandable and customizeable microscope based around basic hardware, 3d printing, and the lenses and just a few specific microscope components that cannot be worked around.
+This project is about an affordable, expandable and customizeable microscope based around basic hardware, 3d printing, and the few specific microscope components that cannot be worked around.
 It started with a father without technical or academic knowledge whatsoever wanting to show micro-critters to his daughter, so the aim is fist and foremost to provide an enjoyable experience exploring small stuff for hobby or home use.
 
 While MICROstack is expandable, its core design prioritizes simplicity and affordability.  
-I measure the success of this project on the fun you will have building it and using it, **especially** if it will be a stepping stone for more advanced instruments and projects.
+I measure the success of this project on the fun you will have building it and using it, **especially** if it will be just a stepping stone for more advanced instruments and projects.
 
-If you are looking for a DIY microscope already designed from the ground up to be a high end solution, with a vast selection of upgrades and configurations addressing a variety of scientific needs, have a look at the [PUMA project](https://github.com/TadPath/PUMA)
+I hope to improve and expand on this project, and I would b thrilled to see other people picking up and modding it.
+That said, if you are looking for a DIY microscope already designed from the ground up to be a high end solution, with a vast selection of upgrades and configurations addressing a variety of scientific needs, have a look at the [PUMA project](https://github.com/TadPath/PUMA)
 
 ## Basic modules
 
