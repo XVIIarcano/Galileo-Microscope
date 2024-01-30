@@ -72,7 +72,13 @@ Towards the end of the knob insertion, align it with the nut in the cart, so tha
 
 ### Standoffs
 
-Nothing to see here either, just slide them in place.
+Not much to see here either, if you opt for the plain standoffs just slide them in place.
+The default size of 80 mm should be a good starting point but you can cut them shorter or stretch them taller directly in the slicer.
+
+There is also a threaded version with an accessory ring and a simple phone holder, which will allow you to use the phone flashlight as reflected light source ("light from above" in plain english). 
+You can use the accessory ring to rise or lower the phone along the shaft, or to clamp the holder down at the bottom.
+
+If your phone doesn't fit, or you wish to develop something else based on this, you can use the source file in the [CAD](/CAD) folder to edit as needed.
 
 ### Optical group
 

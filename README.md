@@ -84,7 +84,6 @@ The stage in its current implementation is finnicky to assemble, and unpleasant 
 - Base alternative with some internal storage or some other solution to store stuff within the cylinder footprint when not in use
 - A basic lighting module with its own light source, external power and a dimmer knob... 
 - A less basic lighting module with the possibility to mount light modifiers like a condenser and an iris.
-- Either a stage or standoff solution to integrate a reflected light source ("light from above" in plain english)
 - Fine focusing on the optical group, or a finer pitch option for the threads, or both!
 - A better phone holder  
 - A blank floor/roof and blank "ring" modules to make it easier to experimenting and do one-offs (yes, it is a low hanging fruit)
