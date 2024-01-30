@@ -79,14 +79,13 @@ That's about it, there is no limit on how tall each "layer" should be, on the nu
 Below is a small list of things I would like to see, but have not been included in the core project (yet), if someone beats me to them, all the better!
 
 - **No.1 priority -> Better movement with backlash compensation for the stage module**  
-The stage in its current implementation is finnicky to assemble, and unpleasant to use...   It is still beter than moving around the stage manually, and it is actually ok-ish if you just need to move the view around a couple millimeters at low magnification, but that's about it.
+The stage in its current implementation is finnicky to assemble, and unpleasant to use...   It is still beter than moving around the stage manually, and it actually works if you just need to move the view around a couple millimeters at low magnification, but that's about it.  Having to gently shake one knob to unbind it after you move the other is not the kind of user experience I had in mind.
 
 - Base alternative with some internal storage or some other solution to store stuff within the cylinder footprint when not in use
-- A basic lighting module with its own light source, external power and a dimmer knob... 
-- A less basic lighting module with the possibility to mount light modifiers like a condenser and an iris.
-- Fine focusing on the optical group, or a finer pitch option for the threads, or both!
+- A less basic lighting module with its own light source.
+- An advanced lighting module with the possibility to mount a condenser and other amenities.
+- Fine focusing on the optical group, or a finer pitch option for the main focusing tube, or both!
 - A better phone holder  
-- A blank floor/roof and blank "ring" modules to make it easier to experimenting and do one-offs (yes, it is a low hanging fruit)
 
 ## Licensing
 (Talk to your kids about sharing culture use before someon else does)
