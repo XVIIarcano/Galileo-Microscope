@@ -112,3 +112,5 @@ You can now install the asembly on the lower part of the microscope.
 ### Phone holder
 
 Print the main body, and an insert to suit the clearance between the body and your specific eyepiece, the insert just slides in, and you can have more than one for different eyepieces. Install the phone holder by sliding it on the eyepiece, and use the accessory ring on the optical tube to move the support higher or lower based on the eye-relief distance of your eyepiece. 
+
+If your holder wobbles because none of the pre-generated sleeves fits right on your eyepiece, you can use the source file in the [CAD](/CAD) folder to generate a custom size.
