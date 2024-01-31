@@ -17,7 +17,7 @@ That said, it works, including the stage movement despite ample margins of impro
 
 ![Pictures/Rotifer_of_proof.PNG](/Pictures/Rotifer_of_proof.gif)
 
-Not convinced? Enthusiastic? Need to ~~insult~~ __politely disagree__ with the design choices?
+Not convinced? Enthusiastic? Need to ~insult~ _politely question_ the design choices?
 [**Join us on Discord**](https://discord.gg/2NHQUmsnHg)
 
 ## Basic modules
