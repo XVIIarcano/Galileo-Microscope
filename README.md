@@ -17,6 +17,9 @@ That said, it works, including the stage movement despite ample margins of impro
 
 ![Pictures/Rotifer_of_proof.PNG](/Pictures/Rotifer_of_proof.gif)
 
+Not convinced? Enthusiastic? Need to ~~insult~~ __politely disagree__ with the design choices?
+[**Join us on Discord**](https://discord.gg/2NHQUmsnHg)
+
 ## Basic modules
 
 The main feature of this microscope is having each of the core functions carried out by a separate module, that exist independently and can be modded, customized and combined freely.

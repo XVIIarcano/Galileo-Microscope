@@ -79,4 +79,6 @@ That said, it is like using a cheapo camera fom years past, it is not that the p
 
 If you want to know more about why certain lenses cost a fortune (and therefore what you can expect out of those which are cheap), I recommend you [this page on the Edmund Optics website](https://www.edmundoptics.com/knowledge-center/application-notes/microscopy/understanding-microscopes-and-objectives/).
 
-In my research, it has been the most useful, as they provide a detailed explanation of the nomenclature of microscope lenses. If you are reading this I'm afraid that like me we may not be their target customer, but their page is very comprehensive and informative none the less, if a bit technical. 
+If you are reading this, I'm afraid that like me we may not be their target customer, but their page is very comprehensive and informative none the less, if a bit technical. 
+
+In my research, it has been the most useful, as they provide a detailed explanation of the nomenclature of microscope lenses. The various concepts they illustrate will be extremely useful when you have to do your shopping, so I wholehartedly recommend investing half an hour in reading their materials.
