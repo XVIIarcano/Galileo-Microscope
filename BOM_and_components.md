@@ -49,7 +49,7 @@ These also exist in 25 mm version, they may work as well, just precharge the ant
 - a pack of slides and cover slips
 
 ![/Pictures/cheap_objective.png](/Pictures/cheap_objective.png) ![/Pictures/cheap_eyepiece.png](/Pictures/cheap_eyepiece.png) ![/Pictures/Clips.png](/Pictures/Clips.png) ![/Pictures/slides.png](/Pictures/slides.png)  
-_These are not intrinsecally good, just what I started with, and worked_
+_These are not intrinsecally good, just what I started with, and worked._
 
 ### Tools
 
