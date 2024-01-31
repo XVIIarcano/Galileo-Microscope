@@ -59,7 +59,7 @@ That's about it, there is no limit on how tall each "layer" should be, on the nu
 
 ![Pictures/Base.png](/Pictures/Base.png)
 
-### Wishlist and known issues
+## Wishlist and known issues
 
 Below is a small list of things I would like to see, but have not been included in the core project (yet), if someone beats me to them, all the better!
 
@@ -77,7 +77,7 @@ That said, the system is enough to follow small critters around so I did not con
 (Talk to your kids about sharing culture use before someon else does)
 This project is released under Creative Commons BY-SA-NC license.
 
-## Thanks and acknowledgements
+### Thanks and acknowledgements
 
 Thanks to Maff, who desinged the [Hadley telescope](https://www.printables.com/it/model/224383-astronomical-telescope-hadley-an-easy-assembly-hig) ([Metric version](https://www.printables.com/it/model/268580-hadley-telescope-official-metric-remix)).
 Building and using a Hadley has been the inspiration that made me think this might be possible, and the design itself of the microscope is directly inspired by Hadley and the Hadley ecosystem.

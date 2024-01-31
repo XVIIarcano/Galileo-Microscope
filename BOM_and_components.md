@@ -1,3 +1,8 @@
+# Bill of materials and Microscope components
+
+>[!ATTENTION]
+>This documentation is written by me, a salesman of totally unrelated goods wiht a degree in Political Sciences. I write based on my personal experience, opinions, expectations and whatever I could understand from doing my own research.   Do your own research too before committing money to this project, no refunds.
+
 ### 3d printed parts
 Please read the [Printing and assembling](/Printing_and_assembling.md) file, there are a couple variants to choose from, and some tips about printing.
 
