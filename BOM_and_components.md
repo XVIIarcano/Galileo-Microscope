@@ -45,10 +45,11 @@ These also exist in 25 mm version, they may work as well, just precharge the ant
 - at least one eyepiece, 23.2 mm tube diameter, if in doubt start with a 10x eyeglasses friendly
 
 - a pair of stage clips, the standard type which comes with M3 screws for installation  
-![/Pictures/Clips.png](/Pictures/Clips.png)
 
 - a pack of slides and cover slips
 
+![/Pictures/cheap_objective.png](/Pictures/cheap_objective.png) ![/Pictures/cheap_eyepiece.png](/Pictures/cheap_eyepiece.png) ![/Pictures/Clips.png](/Pictures/Clips.png) ![/Pictures/slides.png](/Pictures/slides.png)  
+_These are not intrinsecally good, just what I started with, and worked_
 
 ### Tools
 
