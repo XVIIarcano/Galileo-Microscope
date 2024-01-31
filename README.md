@@ -13,7 +13,7 @@ I measure the success of this project on the fun you will have building it and u
 I hope to improve and expand on this project, and I would be thrilled to see other people picking up and modding it.
 If you are looking for a DIY microscope already designed from the ground up to be a high end solution, with a vast selection of upgrades and configurations addressing a variety of scientific needs, have a look at the [PUMA project](https://github.com/TadPath/PUMA)
 
-That said, it works, including the stage movement despite ample margins of improvement, and I have the Rotifer of proof!
+That said, it works, including the stage movement despite ample margins of improvement, and I hereby summon **The Rotifer Of Proof!**
 
 ![Pictures/Rotifer_of_proof.PNG](/Pictures/Rotifer_of_proof.gif)
 
