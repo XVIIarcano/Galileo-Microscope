@@ -10,7 +10,9 @@ Please read the [Printing and assembling](/Printing_and_assembling.md) file, the
 
 Purchasing-wise, one spool of either PLA or PETG should be enough to complete the project, but the result will be boring, I suggest a two color scheme (one for the structure and another one for the gears and knobs), plus there are the optional TPU feet.
 
-## Generic hardware
+## Hardware
+
+### Generic hardware
 
 - 3x 20 cm aluminum pipes spans, 12 mm diameter 
 Wood or other materials would also work, as long as the material is rigid and the diameter is correct.
@@ -57,10 +59,24 @@ These also exist in 25 mm version, they may work as well, just precharge the ant
 
 - having Sandpaper (or a dremel) around never hurts, but it should not be necessary. 
 
+## Considerations about lenses
 
+The microscope has been designed and tested around cheap optics from Amazon, using better components will definitely make a difference but if you are in doubt wether to commit money to this project, there is no shame in starting cheap like I did (self absolutory? You bet I would be!).  
 
->[!NOTE]
->The microscope has been designed and tested around cheap optics from Amazon, using better components will definitely make a difference but if you are in doubt wether to commit money to this project, there is no shame in starting cheap.  
->Here is an example of what 25,00 Euros of glass can do already (4x objective 10x eyepiece, the small notches are 0.01 mm)
+Here is an example of what 25,00 Euros of glass can do already (4x objective 10x eyepiece, no brand off Amazon).
+
 >![Pictures/example.jpeg](/Pictures/example.jpeg)![Pictures/example-crop.png](/Pictures/example-crop.png)
 
+The small notches are 0.01 mm, meaning that your average tardigrade would be as wide as the medium nothces.
+
+The downside of these cheap lenses is that the optical quality has some intrinsic shortcomings.
+
+The focus plane is not straight, a phenomenon called field curvature, as a result if the center of the scene is in focus, the outes parts will not be, you may see something with the corner of your eye, and then have to move the stage and center it in order to get a good sharp view. 
+
+They also lack any sophisticated optical coating, meaning that they will suffer more from things like chromatic aberrations (funny halos around bright and high contrast edges), and reflections.
+
+That said, it is like using a cheapo camera fom years past, it is not that the pictures dont't turn out, just that they could look shaper and have suffer more than the newer ones in challenging scenes.
+
+If you want to know more about why certain lenses cost a fortune (and therefore what you can expect out of those which are cheap), I recommend you [this page on the Edmund Optics website](https://www.edmundoptics.com/knowledge-center/application-notes/microscopy/understanding-microscopes-and-objectives/).
+
+In my research, it has been the most useful, as they provide a detailed explanation of the nomenclature of microscope lenses. If you are reading this I'm afraid that like me we may not be their target customer, but their page is very comprehensive and informative none the less, if a bit technical. 
