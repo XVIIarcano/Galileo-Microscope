@@ -65,7 +65,7 @@ The microscope has been designed and tested around cheap optics from Amazon, usi
 
 Here is an example of what 25,00 Euros of glass can do already (4x objective 10x eyepiece, no brand off Amazon).
 
->![Pictures/example.jpeg](/Pictures/example.jpeg)![Pictures/example-crop.png](/Pictures/example-crop.png)
+![Pictures/example.jpeg](/Pictures/example.jpeg)![Pictures/example-crop.png](/Pictures/example-crop.png)
 
 The small notches are 0.01 mm, meaning that your average tardigrade would be as wide as the medium nothces.
 
