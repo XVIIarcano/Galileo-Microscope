@@ -1,5 +1,5 @@
 ### 3d printed parts
-Please read the [Printing and assembling.md](/Printing_and_assembling.md) file, there are a couple variants to choose from, and some tips about printing.
+Please read the [Printing and assembling](/Printing_and_assembling.md) file, there are a couple variants to choose from, and some tips about printing.
 
 ### Generic hardware
 - 3x 20 cm aluminum pipes spans, 12 mm diameter 
