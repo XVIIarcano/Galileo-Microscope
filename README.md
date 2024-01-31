@@ -87,8 +87,8 @@ This work is licensed under a Creative Commons (4.0 International License)
 Thanks to Maff, who desinged the [Hadley telescope](https://www.printables.com/it/model/224383-astronomical-telescope-hadley-an-easy-assembly-hig) ([Metric version](https://www.printables.com/it/model/268580-hadley-telescope-official-metric-remix)).
 Building and using a Hadley has been the inspiration that made me think this might be possible, and the design itself of the microscope is directly inspired by Hadley and the Hadley ecosystem.
 
-Thanks to the Hadley discord community, especially Maff, Baker and Marci who encouraged me down this road after seeing the first render that was, at that point, still half a joke in my head.
+Thanks to the [Hadley discord community](https://discord.gg/DD3vHDNDjg), especially @Maff, @Baker and @Marci who encouraged me down this road after seeing the first render that was, at that point, still half a joke in my head.
 They also pointed, and accompanied me, to the next chapter of my acknowledgements.
 
-Thanks to the Microscopy discord community, in particular SmarmyNarwal and Blekenbleu who explained many things to me without patronizing even if I was literally an incompetent barging in with ideas.
+Thanks to the [Microscopy discord community](https://discord.gg/zGW95BwCy4), in particular @SmarmyNarwal and @Blekenbleu who explained many things to me without patronizing even if I was literally an incompetent barging in with ideas.
 They helped me understand what I would be aiming for, and what challenges I should prioritize.
