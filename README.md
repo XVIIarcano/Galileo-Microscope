@@ -77,8 +77,10 @@ That said, the system is enough to follow small critters around so I did not con
 - A better phone holder  
 
 ## Licensing
-(Talk to your kids about sharing culture use before someon else does)
-This project is released under Creative Commons BY-SA-NC license.
+
+This work is licensed under a Creative Commons (4.0 International License)
+Attribution—Noncommercial—Share Alike
+![Pictures/Base.png](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ### Thanks and acknowledgements
 
