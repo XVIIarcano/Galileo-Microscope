@@ -80,7 +80,7 @@ That said, the system is enough to follow small critters around so I did not con
 
 This work is licensed under a Creative Commons (4.0 International License)
 Attribution—Noncommercial—Share Alike
-![Pictures/Base.png](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+![Pictures/Creative_Commons.png](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ### Thanks and acknowledgements
 
