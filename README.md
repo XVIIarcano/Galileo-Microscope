@@ -19,51 +19,31 @@ That said, it works, including the stage movement despite ample margins of impro
 
 ## Basic modules
 
-The basic configuration consists of the following modules:
+The main feature of this microscope is having each of the core functions carried out by a separate module, that exist independently and can be modded, customized and combined freely.
+The basic configuration consists of the following modules and the [Printing and assembling](/Printing_and_assembling.md) file contains instructions and tips to put them together:
 
 - **Base** 
 - **Lighting (bring your own)** 
 - **Stage** 
-- **Standoffs** (choose your size, Standard or clip on)
+- **Standoffs**
 - **Optical group** 
-- **Phone holder** 
+- **Phone holder (optional, but you will want to brag)** 
 
 ## Materials
 
-The list below covers the bare minimum, as your microscope grows or you choose some variant or another for the various modules, the list of what you need may change as well.
+The [BOM and components](/BOM_and_components.md) file contains a list of the necessary materials and some considerations about lenses and other accessories you will need.
+I'll try to keep things synchronized but buy some extra nuts and screws ;) 
 
-### 3d printed parts
-Please read the [instructions](/Instructions.md) there are a couple variants to choose from, and some tips about printing.
+In general, you will need:
 
-### Generic hardware
-- 3x 20 cm aluminum pipes spans, 12 mm diameter 
-- 6x M5x12 SHCS screws and nuts for locking the pipes
-- 2x M5x80 hexagon head bolts, 2x M5 lock nuts and 4x M5 washers for the stage movement.  You can also use M5 threaded rod 90 mm length instead of the bolts, but you will need 2 more locknuts and 2x M5 cap nuts.
-- 3x M3x30 SHCS screws and nuts for the anti backlash ring
-- 2x M3x12 SHCS screws for the slide holder
-- Superlube grease or similar
-- Superglue
-- A bit of oven paper or similar, or a 25 mm diameter disk of 3 mm frosted acrylic if you are feeling dapper
+- M3 and M5 screws of different lenghts, and nuts to suit
+- about 60 cm of 12 mm diameter pipe
+- Some 3d printer spare parts like bed leveling springs and bowden tube.
+- At least one objective, one eyepiece, and some other off the shelf microscope accessory
 
-### 3D printing related hardware
-- PTFE tube, 4 mm diameter, about 30 cm in total
-- 3x 8x20 mm bed leveling springs, the generic yellow ones. 
 
-### Microscope specific hardware
-- at least one objective, with standard RMS thread, if in doubt start with a 4x one 
-- at least one eyepiece, 23.2 mm tube diameter, if in doubt start with a 10x eyeglasses friendly
-- a pair of stage clips, the standard type which comes with M3 screws for installation
-- a pack of slides and cover slips
-
-### Tools
-- Allen keys matching the screw heads
-- Metal saw for the aluminum tube
-- having Sandpaper around never hurts, but it should not be necessary. 
-
->[!NOTE]
->The microscope has been designed and tested around cheap optics from Amazon, using better components will definitely make a difference but if you are in doubt wether to commit money to this project, there is no shame in starting cheap.  
->Here is an example of what 25,00 Euros of glass can do already (4x objective 10x eyepiece, the small notches are 0.01 mm)
->![Pictures/example.jpeg](/Pictures/example.jpeg)![Pictures/example-crop.png](/Pictures/example-crop.png)
+The objective is to keep the project lean and possibly cheap, your pricing may vary but for your reference the first functional prototype costed less than 80,00 Euros in hardware, plus the printed parts. 
+Of course, if you want to bling it out you can, as with all things, but it would sort of miss the point.
 
 ## Modifications and accessories
 
@@ -106,4 +86,4 @@ Thanks to the Hadley discord community, especially Maff, Baker and Marci who enc
 They also pointed, and accompanied me, to the next chapter of my acknowledgements.
 
 Thanks to the Microscopy discord community, in particular SmarmyNarwal and Blekenbleu who explained many things to me without patronizing even if I was literally an incompetent barging in with ideas.
-They helped me understand what I should be aiming for and what challenges I should be aware of.
+They helped me understand what I would be aiming for, and what challenges I should prioritize.

@@ -4,6 +4,9 @@ The following instructions cover the basic modules, over time some alternatives 
 
 In particular your objective will need a specific focus tube lenghts, the DIN standard has a 160 mm tube, the JIS standard has a 170 mm tube. Choose yours accordingly and note that the threaded tube in the STLs are 5 mm shorter but that's correct, the objective holder nut adds the missing 5 mm.
 
+>[!NOTE]
+>The bill of materials and some considerations about lenses and other accessories can be found in the [BOM and components](/BOM_and_components.md) file. 
+
 ## Printing tips
 
 ### Materials
