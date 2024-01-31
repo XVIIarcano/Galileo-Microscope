@@ -50,7 +50,8 @@ You will slide a cellphone here to provide the lighting, either with the torch o
 
 ### Stage
 
-Remove the integrated supports from the slits in the Stage module, use an M5 screw to file the inside of the slits until it passes freely and slides freely across.
+>[!NOTE]
+>The stage module has integrated supports in the slits where the knobs will travel, remove them and use an M5 screw to file the inside of the slits until it passes freely and slides freely across.
 
 Add M5 nuts in the verticasl slots of the cart.
 
@@ -70,6 +71,9 @@ Place the knobs with a washer on each side of the slit in the module body, then 
 
 Towards the end of the knob insertion, align it with the nut in the cart, so that it will be pulled in.  Do not worry if the screw exits inside the cart by about 1 cm, even at los magnifications, it will remain well outside of the field of view and it won't cast a shadow.
 
+Glue the diffuser ring to a sheet of oven paper, and cut out the excess, you can put this in the slot on the floowr of the stage module to prevent wet samples from dripping in the illumination stage.
+You can use a 3mm disk of acrylic if you have any around, it will do a much better job and be nicer too, but I would not go buy some just for this.
+
 ### Standoffs
 
 Not much to see here either, if you opt for the plain standoffs just slide them in place.
@@ -81,6 +85,9 @@ You can use the accessory ring to rise or lower the phone along the shaft, or to
 If your phone doesn't fit, or you wish to develop something else based on this, you can use the source file in the [CAD](/CAD) folder to edit as needed.
 
 ### Optical group
+
+>[!NOTE]
+>The focus knob has a sacrificial layer at the bottom of the spring wells to allow proper printing without supports. Punch trough them with an M3 screw, and make sure that all the burrs come off.
 
 Assemble the objective in the objective holder, the nut has RMS threads on it but it is unlikely that your printer can resolve them correctly, they will help guide the operation, but you will be actually threading the plastic with the metal of the objective. Do it nice and slow, and pay attention not to thread it in at an angle. If you have more than one objective, it mau be a good idea to print  multiple nuts and leave each objective on its own nut.
 

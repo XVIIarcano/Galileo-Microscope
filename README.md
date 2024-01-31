@@ -10,10 +10,10 @@ It started with a father without technical or academic knowledge whatsoever want
 While MICROstack is expandable, its core design prioritizes simplicity and affordability.  
 I measure the success of this project on the fun you will have building it and using it, **especially** if it will be just a stepping stone for more advanced instruments and projects.
 
-I hope to improve and expand on this project, and I would b thrilled to see other people picking up and modding it.
+I hope to improve and expand on this project, and I would be thrilled to see other people picking up and modding it.
 If you are looking for a DIY microscope already designed from the ground up to be a high end solution, with a vast selection of upgrades and configurations addressing a variety of scientific needs, have a look at the [PUMA project](https://github.com/TadPath/PUMA)
 
-That said, it works, including the stage movement despite the ample margin of improvement, and I have the Rotifer of proof!
+That said, it works, including the stage movement despite ample margins of improvement, and I have the Rotifer of proof!
 
 ![Pictures/Rotifer_of_proof.PNG](/Pictures/Rotifer_of_proof.gif)
 
@@ -102,7 +102,7 @@ This project is released under Creative Commons BY-SA-NC license.
 Thanks to Maff, who desinged the [Hadley telescope](https://www.printables.com/it/model/224383-astronomical-telescope-hadley-an-easy-assembly-hig) ([Metric version](https://www.printables.com/it/model/268580-hadley-telescope-official-metric-remix)).
 Building and using a Hadley has been the inspiration that made me think this might be possible, and the design itself of the microscope is directly inspired by Hadley and the Hadley ecosystem.
 
-Thanks to the Hadley discord community, especially Maff and Baker who encouraged me down this road after seeing the first render that was, at that point, still half a joke in my head.
+Thanks to the Hadley discord community, especially Maff, Baker and Marci who encouraged me down this road after seeing the first render that was, at that point, still half a joke in my head.
 They also pointed, and accompanied me, to the next chapter of my acknowledgements.
 
 Thanks to the Microscopy discord community, in particular SmarmyNarwal and Blekenbleu who explained many things to me without patronizing even if I was literally an incompetent barging in with ideas.
