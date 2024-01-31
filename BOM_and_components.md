@@ -52,7 +52,7 @@ Do note that if your springs remain 5 mm longer, you will also need M3x35 screws
 - a pack of slides and cover slips
 
 ![/Pictures/cheap_objective.png](/Pictures/cheap_objective.png) ![/Pictures/cheap_eyepiece.png](/Pictures/cheap_eyepiece.png) ![/Pictures/Clips.png](/Pictures/Clips.png) ![/Pictures/slides.png](/Pictures/slides.png)  
-_These are not intrinsecally good, just what I started with, and worked_
+_These are not intrinsecally good, just what I started with, and worked._
 
 ### Tools
 
