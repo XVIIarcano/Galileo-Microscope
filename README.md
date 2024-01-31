@@ -11,7 +11,11 @@ While MICROstack is expandable, its core design prioritizes simplicity and affor
 I measure the success of this project on the fun you will have building it and using it, **especially** if it will be just a stepping stone for more advanced instruments and projects.
 
 I hope to improve and expand on this project, and I would b thrilled to see other people picking up and modding it.
-That said, if you are looking for a DIY microscope already designed from the ground up to be a high end solution, with a vast selection of upgrades and configurations addressing a variety of scientific needs, have a look at the [PUMA project](https://github.com/TadPath/PUMA)
+If you are looking for a DIY microscope already designed from the ground up to be a high end solution, with a vast selection of upgrades and configurations addressing a variety of scientific needs, have a look at the [PUMA project](https://github.com/TadPath/PUMA)
+
+That said, it works, including the stage movement despite the ample margin of improvement, and I have the Rotifer of proof!
+
+![Pictures/Rotifer_of_proof.PNG](/Pictures/Rotifer_of_proof.gif)
 
 ## Basic modules
 
@@ -80,7 +84,8 @@ That's about it, there is no limit on how tall each "layer" should be, on the nu
 Below is a small list of things I would like to see, but have not been included in the core project (yet), if someone beats me to them, all the better!
 
 - **No.1 priority -> Better movement with backlash compensation for the stage module**  
-The stage in its current implementation is finnicky to assemble, and unpleasant to use...   It is still beter than moving around the stage manually, and it actually works if you just need to move the view around a couple millimeters at low magnification, but that's about it.  Having to gently shake one knob to unbind it after you move the other is not the kind of user experience I had in mind.
+The stage in its current implementation is finnicky to assemble, and unpleasant to use...   It is still beter than moving around the stage manually, and it actually works if you just need to move the view around a couple millimeters at low magnification, but that's about it.  Having to press one knob as you move the other, or shake them when they bind (when, not if) is not the kind of user experience I had in mind.
+That said, the system is enough to follow small critters around so I did not consider it a deal breaker for releasing the project.
 
 - Base alternative with some internal storage or some other solution to store stuff within the cylinder footprint when not in use
 - A less basic lighting module with its own light source.
