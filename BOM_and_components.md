@@ -6,9 +6,11 @@
 
 ## 3d printed parts
 
-Please read the [Printing and assembling](/Printing_and_assembling.md) file, there are a couple variants to choose from, and some tips about printing.
+Please read the [Printing and assembling](/Printing_and_assembling.md) file, there are a couple variants to choose from, and some tips about printing, so read it all at least once before you start pushing plastic.
 
-Purchasing-wise, one spool of either PLA or PETG should be enough to complete the project, but the result will be boring, I suggest a two color scheme (one for the structure and another one for the gears and knobs), plus there are the optional TPU feet.
+For the sake of the shopping list, one spool of either PLA or PETG should be enough to complete the project, but the result may look boring, I went for a two color scheme (one for the structure and another one for the gears and knobs), plus there are the optional TPU feet. 
+
+The only caveat about color selection is that technically the inside of the optical tube should be matte black to avoid bouncing light around, which would cause a halo effect in the view, different colors and conditions may affect the results, but as a measure of caution stay away from canary yellow and glow in the dark filaments.
 
 ## Hardware
 
@@ -33,10 +35,11 @@ Wood or other materials would also work, as long as the material is rigid and th
 
 ### 3D printing related hardware
 
-- PTFE tube (Bowden), 4 mm diameter, about 10 cm (optional, but used to allow the stage to slide around better), it will be finnicky to place it afterwards so I do recommend installing it from the start.
+- PTFE tube (Bowden), 4 mm diameter, about 22 cm (optional, but used to allow the stage to slide around better), it will be finnicky to place it afterwards so I do recommend installing it from the start.
 
 - 3x 8x20 mm bed leveling springs, the generic yellow ones.  
 These also exist in 25 mm version, they may work as well, just precharge the anti backlash ring one less turn, it will eat 5 mm of travel to your focuser, wether this is a problem depends on your objectives, I don't have data to tell. 
+Do note that if your springs remain 5 mm longer, you will also need M3x35 screws instead of M3x30.
 
 ### Microscope specific hardware
 
