@@ -1,4 +1,4 @@
-### Fine focusing stage
+# Fine focusing stage
 
 ![/Mods/Optical/Fine%20focus%20stage%20(untested)/render.png](/Mods/Optical/Fine%20focus%20stage%20(untested)/render.png)
 
