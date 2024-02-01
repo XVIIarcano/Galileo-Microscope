@@ -41,6 +41,15 @@ Mechanically, this is achieved by sliding a disk with sloped surfaces in order t
 
 - Place the rotor in the cradle of the spider body, followed by the nachelle. make sure the rotor spins freely against both, and if in doubt add some grease especially in the pit between spider and rotor, where it won't risk getting in your hands during use anyways.
 
-- Drop the springs in the pits on the three corners, then the spring retainers. Use M3x40 and locknuts in the pits on the bottom of the spider to keep everything together. precharge the springs 
+>[!TIP]
+>Add now the M5 nuts and screws in the corners too, before positioning the nachelle.
 
+- Drop the springs in the pits on the three corners, then the spring retainers. Use M3x40 and locknuts in the pits on the bottom of the spider to keep everything together. 
+
+- Adjust the precharge of the springs, they must not be too compressed, and they must press down evenly.  
+
+- Proceed with the assembling of the other components and installation on the pipes, same as the standard optical module.
+
+>[!TIP]
+>If the wells for M5 screws in the corner are too shallow for inserting the screws after it is assembled
 
