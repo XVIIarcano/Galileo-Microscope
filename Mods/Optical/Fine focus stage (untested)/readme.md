@@ -12,15 +12,17 @@ Mechanically, this is achieved by sliding a disk with sloped surfaces in order t
 
 ## Bill of Materials
 
+**This mod only changes the spider of the standard focuser, please refer to that BOM and instructions for the common parts, below is only what you will need specifically for this mod.**
+
 - One each of the STLs, printed using the same settings as the rest of the microscope
 
 - 3x 8x20 mm springs, same as those used in the standard focusing knob
 
-- 3x M3x40 mm SHCS screws and M3 nuts
+- 3x M3x40 mm SHCS screws and M3 lock nuts
 
 - 1x M3x50 mm SHCS screw, one M3 nut and 2x M3 locknuts    
 
-- 4mm diameter PTFE tube (bowden), about 120 cm in total.
+- 4mm diameter PTFE tube (bowden), about 55 cm in total.
 
 - 3x M5x12 SHCS screws and nuts for locking the pipes (if you upgrade an existing spider you will recycle these).
 
@@ -31,5 +33,14 @@ Mechanically, this is achieved by sliding a disk with sloped surfaces in order t
 
 ![/Mods/Optical/Fine%20focus%20stage%20(untested)/section.png](/Mods/Optical/Fine%20focus%20stage%20(untested)/section.png)
 
-- Remove the sacrificial layers from the three corners of the spider body, there is one in the roof of the spring wells, and one closing the nut slots in the bottom. Punch through them with an M3 screw and clear any burrs.
+- Remove the sacrificial layers from the three corners of the spider body, closing the nut slots in the bottom. Punch through them with an M3 screw and clear any burrs.
+
+- Insert six spans of PTFE tube in the grooves of the spider body, they will provide an even slope instead of the inevitable "stairs" effect of the printed layers.   The tube should snap fit in the slot, push it one section at a time pressing down with a spoon going around the circle, cut off the excess when you get close to the end, cut as close as possible to the end of the groove, but avoid longer ends bumping and pushing out. 
+
+- Insert the M3 nut in the rotor (it goes in flat side down, unlike corner down as usual) and the M3x50 screw in the knob, then join them. Make sure the screw bottoms out in the pit which goes all the way trough the depth of the rotor.
+
+- Place the rotor in the cradle of the spider body, followed by the nachelle. make sure the rotor spins freely against both, and if in doubt add some grease especially in the pit between spider and rotor, where it won't risk getting in your hands during use anyways.
+
+- Drop the springs in the pits on the three corners, then the spring retainers. Use M3x40 and locknuts in the pits on the bottom of the spider to keep everything together. precharge the springs 
+
 
