@@ -3,7 +3,7 @@
 ![/Mods/Optical/Fine%20focus%20stage%20(untested)/render.png](/Mods/Optical/Fine%20focus%20stage%20(untested)/render.png)
 
 This modified stage allows a movement of about 0.6 mm moving the control lever over the span of about 75°.
-For reference, it corresponds to 1/6 of a turn of the coarse focusing wheel using the defasult 3.8 mm pitch thread.
+For reference, it corresponds to 1/6 of a turn of the coarse focusing wheel using the default 3.8 mm pitch thread.
 You can modify the CAD file to increase the slope and get a coarser movement, while I do not recommend going much lower than that, even if decreasing the layer height of your print you theoretically could.
 
 Mechanically, this is achieved by sliding a disk with sloped surfaces in order to lift the entire main focuser mechanism, while springs in the three corners keep the system under tension and prevent binding.
@@ -51,5 +51,5 @@ Mechanically, this is achieved by sliding a disk with sloped surfaces in order t
 - Proceed with the assembling of the other components and installation on the pipes, same as the standard optical module.
 
 >[!TIP]
->If the wells for M5 screws in the corner are too shallow for inserting the screws after it is assembled
+>This is when you have to decide where you want the lever to point in relation to the microscope. Having it inm front is not in fact very comfortable, try placing it at the back right or back left depending on wether you are right handed or left handed, it is actually more natural as you keep your hands around the microscope. 
 
