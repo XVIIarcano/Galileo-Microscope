@@ -1,6 +1,6 @@
 ### Fine focusing stage
 
-![/render.png](/render.png)
+![/Mods/Optical/Fine%20focus%20stage%20(untested)/render.png](/Mods/Optical/Fine%20focus%20stage%20(untested)/render.png)
 
 This modified stage allows a movement of about 0.6 mm moving the control lever over the span of about 75°.
 For reference, it corresponds to 1/6 of a turn of the coarse focusing wheel using the defasult 3.8 mm pitch thread.
@@ -29,7 +29,7 @@ Mechanically, this is achieved by sliding a disk with sloped surfaces in order t
 
 ## Assembling
 
-![/section.png](/section.png)
+![/Mods/Optical/Fine%20focus%20stage%20(untested)/section.png](/Mods/Optical/Fine%20focus%20stage%20(untested)/section.png)
 
 - Remove the sacrificial layers from the three corners of the spider body, there is one in the roof of the spring wells, and one closing the nut slots in the bottom. Punch through them with an M3 screw and clear any burrs.
 
