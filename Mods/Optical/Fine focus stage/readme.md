@@ -3,7 +3,6 @@
 >[!WARNING]
 >**This mod has not yet been fully tested by me, test at your risk**
 
-
 ![/Mods/Optical/Fine%20focus%20stage/render.png](/Mods/Optical/Fine%20focus%20stage/render.png)
 
 This modified spider assembly allows a movement of about 0.6 mm moving the control lever over the span of about 75°.
@@ -17,7 +16,7 @@ Mechanically, this is achieved by sliding a disk with sloped surfaces in order t
 
 **This mod only changes the spider of the standard focuser, please refer to that BOM and instructions for the common parts, below is only what you will need specifically for this mod.**
 
-- One each of the STLs, printed using the same settings as the rest of the microscope
+- One set of printed parts, printed using the same settings as the rest of the microscope
 
 - 3x 8x20 mm springs, same as those used in the standard focusing knob
 
@@ -25,12 +24,13 @@ Mechanically, this is achieved by sliding a disk with sloped surfaces in order t
 
 - 1x M3x50 mm SHCS screw, one M3 nut and 2x M3 locknuts    
 
-- 4mm diameter PTFE tube (bowden), about 55 cm in total.
+- 4mm diameter PTFE tube (bowden), about 55 cm for the basic version, 90 cm if you choose the PTFE lined nacelle.
 
 - 3x M5x12 SHCS screws and nuts for locking the pipes (if you upgrade an existing spider you will recycle these).
 
 >[!NOTE]
->The M3x50 can be replaced with one a bit shorter or longer, but consider that if it is shorter you may not be able to bottom it out, losing some leverage and/or limiting the available travel as the knob bumps in the spider (you could forego the knob but that would be barbaric); if the screw is longer you will get better leverage and finer control as the horizontal travel per vertical displacement increases, but at the cost of increasing the footprint and possibly introducing wobble as the longer lever will want to bend more than a shorter one.
+>The M3x50 is used as the lever shaft and can be replaced with one a bit shorter or longer, but it is not recommended. With a shorter screw you may not be able to bottom it out, reducing the rigidity of the system, or you may limit the available travel as the knob will bump in the spider (and removing the knob altoghether would be barbaric); with a longer screw you may get finer control as the horizontal travel per vertical displacement increases, but if you exagerate you may again introduce some flex in the system as well (it would also stick out as a sore thumb).
+>The nacelle with PTFE groves may already improve the sliding of the disk, even if you don't actually add PTFE, as it would still have about 1/3 the contact surface. 
 
 ## Assembling
 
@@ -42,10 +42,12 @@ Mechanically, this is achieved by sliding a disk with sloped surfaces in order t
 
 - Insert the M3 nut in the rotor (it goes in flat side down, unlike corner down as usual) and the M3x50 screw in the knob, then join them. Make sure the screw bottoms out in the pit which goes all the way trough the depth of the rotor.
 
-- Place the rotor in the cradle of the spider body, followed by the nachelle. make sure the rotor spins freely against both, and if in doubt add some grease especially in the pit between spider and rotor, where it won't risk getting in your hands during use anyways.
+- If you have chosen the PTFE lined nacelle, this is the moment to insert the PTFE tubes in the bottom grooves.
+
+- Place the rotor in the cradle of the spider body, followed by the nacelle. Make sure the rotor spins freely against both, and if in doubt add some grease especially in the pit between spider and rotor, where it won't risk getting in your hands during use anyways.
 
 >[!TIP]
->Add now the M5 nuts and screws in the corners too, before positioning the nachelle.
+>Add now the M5 nuts and screws in the corners too, before positioning the nacelle.
 
 - Drop the springs in the pits on the three corners, then the spring retainers. Use M3x40 and locknuts in the pits on the bottom of the spider to keep everything together. 
 
