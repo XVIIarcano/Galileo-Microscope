@@ -1,4 +1,4 @@
-# GALILEO modular microscope
+# GALILEO Modular Microscope
 
 ![Pictures/render.PNG](/Pictures/render.PNG)
 
