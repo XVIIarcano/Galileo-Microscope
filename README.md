@@ -73,7 +73,7 @@ That said, the system is enough to follow small critters around so I did not con
 - Base alternative with some internal storage or some other solution to store stuff within the cylinder footprint when not in use
 - A less basic lighting module with its own light source.
 - An advanced lighting module with the possibility to mount a condenser and other amenities.
-- Fine focusing on the optical group, or a finer pitch option for the main focusing tube, or both!
+- (In the works, check the mods folder) Fine focusing on the optical group, or a finer pitch option for the main focusing tube, or both!
 - A better phone holder  
 
 ## Licensing
