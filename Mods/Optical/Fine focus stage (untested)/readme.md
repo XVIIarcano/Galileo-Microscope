@@ -1,14 +1,17 @@
 # Fine focusing stage
 
-![/Mods/Optical/Fine%20focus%20stage%20(untested)/render.png](/Mods/Optical/Fine%20focus%20stage%20(untested)/render.png)
+>[!WARNING]
+>This mod has not yet been fully tested by me, test at your risk, or wait for this message to disappear ;) 
+
+
+![/Mods/Optical/Fine%20focus%20stage/render.png](/Mods/Optical/Fine%20focus%20stage/render.png)
 
 This modified stage allows a movement of about 0.6 mm moving the control lever over the span of about 75°.
+
 For reference, it corresponds to 1/6 of a turn of the coarse focusing wheel using the default 3.8 mm pitch thread.
-You can modify the CAD file to increase the slope and get a coarser movement, while I do not recommend going much lower than that, even if decreasing the layer height of your print you theoretically could.
+You can modify the CAD file to increase the slope and get a different movement range, within reason.
 
 Mechanically, this is achieved by sliding a disk with sloped surfaces in order to lift the entire main focuser mechanism, while springs in the three corners keep the system under tension and prevent binding.
-
-
 
 ## Bill of Materials
 
@@ -31,7 +34,7 @@ Mechanically, this is achieved by sliding a disk with sloped surfaces in order t
 
 ## Assembling
 
-![/Mods/Optical/Fine%20focus%20stage%20(untested)/section.png](/Mods/Optical/Fine%20focus%20stage%20(untested)/section.png)
+![/Mods/Optical/Fine%20focus%20stage/section.png](/Mods/Optical/Fine%20focus%20stage/section.png)
 
 - Remove the sacrificial layers from the three corners of the spider body, closing the nut slots in the bottom. Punch through them with an M3 screw and clear any burrs.
 
