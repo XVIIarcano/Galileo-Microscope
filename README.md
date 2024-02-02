@@ -66,9 +66,10 @@ That's about it, there is no limit on how tall each "layer" should be, on the nu
 
 Below is a small list of things I would like to see, but have not been included in the core project (yet), if someone beats me to them, all the better!
 
-- **No.1 priority -> Better movement with backlash compensation for the stage module**  
-The stage in its current implementation is finnicky to assemble, and unpleasant to use...   It is still beter than moving around the stage manually, and it actually works if you just need to move the view around a couple millimeters at low magnification, but that's about it.  Having to press one knob as you move the other, or shake them when they bind (when, not if) is not the kind of user experience I had in mind.
-That said, the system is enough to follow small critters around so I did not consider it a deal breaker for releasing the project.
+- **No.1 priority -> Better movement, possibly with backlash compensation for the stage module**  
+The stage in its current implementation is finnicky to assemble and unpleasant to use... Having to press one knob as you move the other, or shake them when they bind (when, not if) is not the kind of user experience I had in mind. 
+That said, the system is enough to follow small critters around at low magnification, so I did not consider it a deal breaker for releasing the project. 
+I know I could just throw a bunch of linear ralils at the problem and call it a day, but it would taste like defeat. 
 
 - Base alternative with some internal storage or some other solution to store stuff within the cylinder footprint when not in use
 - A less basic lighting module with its own light source.
