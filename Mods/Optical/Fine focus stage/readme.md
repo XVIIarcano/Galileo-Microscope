@@ -6,7 +6,7 @@
 
 ![/Mods/Optical/Fine%20focus%20stage/render.png](/Mods/Optical/Fine%20focus%20stage/render.png)
 
-This modified stage allows a movement of about 0.6 mm moving the control lever over the span of about 75°.
+This modified spider assembly allows a movement of about 0.6 mm moving the control lever over the span of about 75°.
 
 For reference, it corresponds to 1/6 of a turn of the coarse focusing wheel using the default 3.8 mm pitch thread.
 You can modify the CAD file to increase the slope and get a different movement range, within reason.
