@@ -87,8 +87,8 @@ This work is licensed under a Creative Commons (4.0 International License)
 Thanks to Maff, who desinged the [Hadley telescope](https://www.printables.com/it/model/224383-astronomical-telescope-hadley-an-easy-assembly-hig) ([Metric version](https://www.printables.com/it/model/268580-hadley-telescope-official-metric-remix)).
 Building and using a Hadley has been the inspiration that made me think this might be possible, and the design itself of the microscope is directly inspired by Hadley and the ecosystem of mods that grew around it.
 
-> **Fun Fact**
->__While I was looking for a name to this project, I found out that Italian scientist Galileo Galilei is credited with the idea of reversing a telescope and use it as a microscope, and that his first composite microscope design is a vertical tube resting on three thin legs... apparently the name had found me.__ 
+> **Fun Fact**  
+>_While I was looking for a name to this project, I found out that Italian scientist Galileo Galilei is credited with the idea of [reversing a telescope and using it as a microscope](https://en.wikipedia.org/wiki/Galileo_Galilei#Engineering), and that his first composite microscope design is [a vertical tube resting on three thin metal legs](https://catalogue.museogalileo.it/object/CompoundMicroscopeGalilean.html)... apparently the name had found me._ 
 
 Thanks to the [Hadley discord community](https://discord.gg/DD3vHDNDjg), especially @Maff, @Baker and @Marci who encouraged me down this road after seeing the first render that was, at that point, still half a joke in my head.
 They also pointed, and accompanied me, to the next chapter of my acknowledgements.
