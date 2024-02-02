@@ -17,7 +17,7 @@ That said, it works, including the stage movement despite ample margins of impro
 
 ![Pictures/Rotifer_of_proof.PNG](/Pictures/Rotifer_of_proof.gif)
 
-Not convinced? Enthusiastic? Need to ~insult me~ _politely question my design choices_?
+Curious? Enthusiastic? Need to ~insult me~ _politely question my design choices_?
 [**Join us on Discord**](https://discord.gg/2NHQUmsnHg)
 
 ## Basic modules
@@ -94,4 +94,4 @@ Thanks to the [Hadley discord community](https://discord.gg/DD3vHDNDjg), especia
 They also pointed, and accompanied me, to the next chapter of my acknowledgements.
 
 Thanks to the [Microscopy discord community](https://discord.gg/zGW95BwCy4), in particular @SmarmyNarwal and @Blekenbleu who explained many things to me without patronizing even if I was literally an incompetent barging in with ideas.
-They helped me understand what I would be aiming for, and what challenges I should prioritize.
+They helped me understand what I would be aiming for, what challenges I should prioritize, and how far the mark still is.
