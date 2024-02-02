@@ -46,9 +46,6 @@ Mechanically, this is achieved by sliding a disk with sloped surfaces in order t
 
 - Place the rotor in the cradle of the spider body, followed by the nacelle. Make sure the rotor spins freely against both, and if in doubt add some grease especially in the pit between spider and rotor, where it won't risk getting in your hands during use anyways.
 
->[!TIP]
->Add now the M5 nuts and screws in the corners too, before positioning the nacelle.
-
 - Drop the springs in the pits on the three corners, then the spring retainers. Use M3x40 and locknuts in the pits on the bottom of the spider to keep everything together. 
 
 - Adjust the precharge of the springs, they must not be too compressed, and they must press down evenly.  
@@ -56,5 +53,5 @@ Mechanically, this is achieved by sliding a disk with sloped surfaces in order t
 - Proceed with the assembling of the other components and installation on the pipes, same as the standard optical module.
 
 >[!TIP]
->This is when you have to decide where you want the lever to point in relation to the microscope. Having it inm front is not in fact very comfortable, try placing it at the back right or back left depending on wether you are right handed or left handed, it is actually more natural as you keep your hands around the microscope. 
+>This is when you have to decide where you want the lever to point in relation to the microscope. Having it in front initially made sense to me but in practice I did not find it very comfortable, try placing it at the back right or back left depending on wether you are right handed or left handed, it is actually more natural as you keep your hands around the microscope. 
 
