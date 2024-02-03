@@ -1,7 +1,7 @@
 # Fine focusing stage
 
 >[!WARNING]
->**This mod has not yet been fully tested by me, test at your risk**
+>**This mod has not yet been fully tested by me (ran out of plastic, will get it next week), test at your risk**
 
 ![/Mods/Optical/Fine%20focus%20stage/render.png](/Mods/Optical/Fine%20focus%20stage/render.png)
 
