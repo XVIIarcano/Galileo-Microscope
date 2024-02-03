@@ -83,7 +83,7 @@ I know I could just throw a bunch of linear ralils at the problem and call it a 
 This work is licensed under a Creative Commons (4.0 International License)  
 [Attribution—Noncommercial—Share Alike](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-### Thanks and acknowledgements
+## Thanks and acknowledgements
 
 Thanks to Maff, who desinged the [Hadley telescope](https://www.printables.com/it/model/224383-astronomical-telescope-hadley-an-easy-assembly-hig) ([Metric version](https://www.printables.com/it/model/268580-hadley-telescope-official-metric-remix)).
 Building and using a Hadley has been the inspiration that made me think this might be possible, and the design itself of the microscope is directly inspired by Hadley and the ecosystem of mods that grew around it.
