@@ -45,14 +45,19 @@ Do note that if your springs remain 5 mm longer, you will also need M3x35 screws
 
 - at least one objective, with standard RMS thread, if in doubt start with a 4x one
 
-- at least one eyepiece, 23.2 mm tube diameter, if in doubt start with a 10x eyeglasses friendly
+- at least one eyepiece, 23.2 mm tube diameter (careful, 30 mm tubes exist), if in doubt start with a 10x eyeglasses friendly
 
 - a pair of stage clips, the standard type which comes with M3 screws for installation  
 
 - a pack of slides and cover slips
 
 ![/Pictures/cheap_objective.png](/Pictures/cheap_objective.png) ![/Pictures/cheap_eyepiece.png](/Pictures/cheap_eyepiece.png) ![/Pictures/Clips.png](/Pictures/Clips.png) ![/Pictures/slides.png](/Pictures/slides.png)  
-_These are not intrinsecally good, just what I started with, and worked._
+_These are not intrinsecally good, just what I started with, and worked, that said here are the amazon links for the very same I used (Amazon Italy tho')..._
+
+[Objective](https://www.amazon.it/dellobiettivo-obiettivi-acromatici-microscopio-biologico/dp/B07XRMMBRK/ref=sr_1_1_sspa?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2NY08BKFBANIX&keywords=microscopio+lente+4x&qid=1706975572&s=industrial&sprefix=microscopio+lente+4%2Cindustrial%2C176&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
+[Eyepiece](https://www.amazon.it/Oculare-microscopio-WF002-G-grandangolare-regolabile/dp/B07NMLYC6X?pd_rd_w=Eui6O&content-id=amzn1.sym.96d1abda-aa11-4f46-aefd-d454143536ea&pf_rd_p=96d1abda-aa11-4f46-aefd-d454143536ea&pf_rd_r=RD4ZGR5EZV3XMWFMR19E&pd_rd_wg=lnUyw&pd_rd_r=a92d7860-4b5e-419b-b774-faf18eb14be3&pd_rd_i=B07NMLYC6X&psc=1&ref_=pd_bap_d_grid_rp_0_1_ec_ppx_yo2ov_dt_b_bia_item_t)
+[Clips](https://www.amazon.it/unknows-portacampionatore-sconosciuti-Inossidabile-Applicazioni/dp/B0987PYLYM/ref=sr_1_4?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=EGTPWBC62ILR&keywords=clip+microscopio&qid=1706975423&s=electronics&sprefix=clip+microscopio%2Celectronics%2C160&sr=1-4)
+[Slides](https://www.amazon.it/Huarew-microscopio-pre-puliti-contagocce-plastica/dp/B08Y75VR5Y/ref=sr_1_2_sspa?keywords=vetrini+microscopio&qid=1706975855&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
 
 ### Tools
 
