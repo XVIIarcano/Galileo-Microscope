@@ -16,7 +16,7 @@ The only caveat about color selection is that technically the inside of the opti
 
 ### Generic hardware
 
-- 3x 20 cm aluminum pipes spans, 12 mm diameter 
+- 3x 20 cm aluminum pipes spans, 12 mm diameter.  
 Wood or other materials would also work, as long as the material is rigid and the diameter is correct.
 
 - 6x M5x12 SHCS screws and nuts for locking the pipes
