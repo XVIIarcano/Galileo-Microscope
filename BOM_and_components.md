@@ -79,15 +79,15 @@ Here is an example of what 25,00 Euros of glass can do already (4x objective 10x
 
 The small notches are 0.01 mm, meaning that your average tardigrade would be as wide as the medium nothces.
 
-The downside of these cheap lenses is that the optical quality has some intrinsic shortcomings.
+The downside of these cheap lenses is that the optical design itself has some intrinsic shortcomings.
 
 The focus plane is not straight, a phenomenon called field curvature, as a result if the center of the scene is in focus, the outes parts will not be, you may see something with the corner of your eye, and then have to move the stage and center it in order to get a good sharp view. 
 
-They also lack any sophisticated optical coating, meaning that they will suffer more from things like chromatic aberrations (funny halos around bright and high contrast edges), and reflections.
+They also lack any sophisticated optical coating, meaning that they will be more susceptible to things like chromatic aberrations (funny halos around bright and high contrast edges), and reflections.
 
-That said, it is like using a cheapo camera fom years past, it is not that the pictures dont't turn out, just that they could look shaper and have suffer more than the newer ones in challenging scenes.
+That said, it is like using a cheap camera fom years past, it is not that the pictures didnt't turn out, just that they could have looked better, especially in challenging scenes, than newer or more expensive equipment.
 
-If you want to know more about why certain lenses cost a fortune (and therefore what you can expect out of those which are cheap), I recommend you [this page on the Edmund Optics website](https://www.edmundoptics.com/knowledge-center/application-notes/microscopy/understanding-microscopes-and-objectives/).
+If you want to know more about why certain lenses can come with a big price tag (and therefore what you can expect out of those which are cheap), I recommend you [this page on the Edmund Optics website](https://www.edmundoptics.com/knowledge-center/application-notes/microscopy/understanding-microscopes-and-objectives/).
 
 If you are reading this, I'm afraid that like me we may not be their target customer, but their page is very comprehensive and informative none the less, if a bit technical. 
 
