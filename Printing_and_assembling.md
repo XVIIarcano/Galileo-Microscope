@@ -51,7 +51,7 @@ Glue the walls of the cover and reverse the base upside down on it, wait for the
 ### Lighting (bring your own)
 
 Nothing to do here, just stack it in place.   
-You will slide a cellphone here to provide the lighting, either with the torch or with a browser open on `about:blank`, whoch will give you a nice and dimmable white background.
+You will slide a cellphone here to provide the lighting, either with the torch or with a browser open on `about:blank`, which will give you a nice and dimmable white background.
 
 Having this module open towards the front is handy, but it may bump against the stage movement knob, so you may consider rotating the module to open at the rear left instead.
 
