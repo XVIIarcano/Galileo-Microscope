@@ -31,6 +31,7 @@ Mechanically, this is achieved by sliding a disk with sloped surfaces in order t
 >[!NOTE]
 >The M3x50 is used as the lever shaft and can be replaced with one a bit shorter or longer, but it is not recommended. With a shorter screw you may not be able to bottom it out, reducing the rigidity of the system, or you may limit the available travel as the knob will bump in the spider (and removing the knob altoghether would be barbaric); with a longer screw you may get finer control as the horizontal travel per vertical displacement increases, but if you exagerate you may again introduce some flex in the system as well (it would also stick out as a sore thumb).
 >The nacelle with PTFE groves may already improve the sliding of the disk, even if you don't actually add PTFE, as it would still have about 1/3 the contact surface. 
+>At one point it did cross my mind that using only three dome-capped nuts as contact points is would be even better, my rationale in not doing so is that if for any reason the nuts would dent the rotor disk, it would instantly spoil the mechanism.
 
 ## Assembling
 
