@@ -73,8 +73,8 @@ I know I could just throw a bunch of linear ralils at the problem and call it a 
 
 - ~~Base alternative with some internal storage or some other solution to store stuff within the cylinder footprint when not in use~~ *(check the MODs folder!)*
 - A less basic lighting module with its own light source.
-- An advanced lighting module with the possibility to mount a condenser and other amenities.
-~~Fine focusing on the optical group~~ *(check the MODs folder!)*, or a finer pitch option for the main focusing tube, or both! 
+- An advanced lighting module with the possibility to mount a condenser and other amenities.  
+- ~~Fine focusing on the optical group~~ *(check the MODs folder!)*, or a finer pitch option for the main focusing tube, or both! 
 - A better phone holder  
 
 ## Licensing
