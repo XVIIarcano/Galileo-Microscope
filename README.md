@@ -71,10 +71,10 @@ The stage in its current implementation is finnicky to assemble and unpleasant t
 That said, the system is enough to follow small critters around at low magnification, so I did not consider it a deal breaker for releasing the project. 
 I know I could just throw a bunch of linear ralils at the problem and call it a day, but it would taste like defeat. 
 
-- Base alternative with some internal storage or some other solution to store stuff within the cylinder footprint when not in use
+- ~~Base alternative with some internal storage or some other solution to store stuff within the cylinder footprint when not in use~~ *(check the MODs folder!)*
 - A less basic lighting module with its own light source.
 - An advanced lighting module with the possibility to mount a condenser and other amenities.
-- (In the works, check the mods folder) Fine focusing on the optical group, or a finer pitch option for the main focusing tube, or both!
+~~Fine focusing on the optical group~~ *(check the MODs folder!)*, or a finer pitch option for the main focusing tube, or both! 
 - A better phone holder  
 
 ## Licensing
