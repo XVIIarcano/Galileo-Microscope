@@ -2,7 +2,7 @@
 
 **WARNING! This mod is not fully tested, and it has a ton of moving parts and gears, here be dragons**
 
-![/Mods/Stage/Better%20Stage/render.png](/Mods/Stage/Better%20Stage/render.png)
+![/Mods/Stage/Better%20Stage/render.png](/Mods/Stage/Better%20Stage/render.png) ![/Mods/Stage/Better%20Stage/render_fine.png](/Mods/Stage/Better%20Stage/render_fine.png)
 
 This mod addresses some major useability downside with the twin M5 screw movement of the standard module.
 The independent rack and pinion movement for x and y prevent the binding issue of the two interconnected knobs, and the new gears incorporate springs in order to eliminate backlash and shake inherent with the design of the basic module.
