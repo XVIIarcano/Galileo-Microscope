@@ -1,6 +1,6 @@
 # Better Stage
 
-**WARNING! This mod is still untested, and it has a ton of moving parts and gears, here be dragons**
+**WARNING! This mod is not fully tested, and it has a ton of moving parts and gears, here be dragons**
 
 ![/Mods/Stage/Better%20Stage/render.png](/Mods/Stage/Better%20Stage/render.png)
 
