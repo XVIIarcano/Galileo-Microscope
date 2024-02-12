@@ -9,7 +9,8 @@ The independent rack and pinion movement for x and y prevent the binding issue o
 
 Despite being more complex, it is also much easier to assemble and maintain.
 
-> There is a basic version and a variant with fine movement knobs, if in doubt, print the latter, there is always tome to remove the fine movement knobs if you change your mind, going the pother way wastes a lot of plastic.
+> There is a basic version and a variant with fine movement knobs, if in doubt, print the latter, there is always tome to remove the fine movement knobs if you change your mind, going the pother way wastes a lot of plastic. There is also a set of plugs to cover the holes where the fine movements come would be if you decide you won't use them.
+
 
 ## Bill of Materials
 
