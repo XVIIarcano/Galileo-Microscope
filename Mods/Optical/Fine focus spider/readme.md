@@ -8,13 +8,14 @@ Mechanically, this is achieved by sliding a disk with sloped surfaces in order t
 
 For reference, the available fine focusing range corresponds to 1/6th of a turn of the coarse focusing wheel using the default 3.8 mm pitch thread.  
 If you do the math, you will see that we are talking about similar vertical travels over similar angles.  
-However, with the lever contorl it is easier to make precise adjustments, and you can use a longer or shorter screw (within reason), to adjust to your taste the linear horizontal travel corresponding to the same swept angle. 
+However, with the lever contorl it is easier to make precise adjustments, and you can use a longer or shorter screw (within reason), to adjust to your taste the linear horizontal travel corresponding to the same swept angle.  
+I find for example that I can make smaller adjustments by grabbing the spider with the tip of my fingers and pushing forward the knob in the palm of my hand, and vice versa.
 
 You may also modify the CAD file to increase or decrease the slope and get a different movement range (again, within reason).
 Note that the 0.6 mm vertical movement is achieved out of the available travel of a 1 mm step sloping over 120°, so you may need to do some calculation to get the exact effective range you want from the 75° actual available movement.
 I also recommend adjusting in multiples of the layer height you are going to print with.
 
-I pregenerated a spider and rotor variant with a 0.6 mm step which should result in about 0,4 mm useful focusing range.
+I pregenerated a spider and rotor variant with a 0.6 mm step which should result in about 0.4 mm useful focusing range.
 
 ## Bill of Materials
 
