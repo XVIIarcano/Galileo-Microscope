@@ -1,6 +1,6 @@
 # Fine focusing stage
 
-![/Mods/Optical/Fine%20focus%20stage/render.png](/Mods/Optical/Fine%20focus%20stage/render.png)
+![/Mods/Optical/Fine%20focus%20spider/render.png](/Mods/Optical/Fine%20focus%20spider/render.png)
 
 This modified spider assembly allows a focuser movement of about 0.6 mm, moving the control lever over the span of about 75°.
 
