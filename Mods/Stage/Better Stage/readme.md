@@ -4,12 +4,12 @@
 
 ![/Mods/Stage/Better%20Stage/render.png](/Mods/Stage/Better%20Stage/render.png) ![/Mods/Stage/Better%20Stage/render_fine.png](/Mods/Stage/Better%20Stage/render_fine.png)
 
-This mod addresses some major useability downside with the twin M5 screw movement of the standard module.
-The independent rack and pinion movement for x and y prevent the binding issue of the two interconnected knobs, and the new gears incorporate springs in order to eliminate backlash and shake inherent with the design of the basic module.
+This mod addresses some major useability downsides with the dual M5 screw movement of the standard module.
+The independent rack and pinion movement for x and y prevents the binding issue of the two interconnected knobs, and the new gears incorporate springs in order to eliminate backlash and shake inherent with the design of the basic module.
 
-Despite being more complex, it is also much easier to assemble and maintain.
+Despite being more complex, it is also easier to assemble and maintain.
 
-> There is a basic version and a variant with fine movement knobs, if in doubt, print the latter, there is always tome to remove the fine movement knobs if you change your mind, going the pother way wastes a lot of plastic. There is also a set of plugs to cover the holes where the fine movements come would be if you decide you won't use them.
+> There is a basic version and a variant with fine movement knobs, if in doubt, print the latter, there is always tome to remove the fine movement knobs if you change your mind, and replace them with the blank plugs which are also provided, going the other way wastes a lot of plastic.
 
 
 ## Bill of Materials
@@ -75,6 +75,8 @@ Tighten and let go the screws, and the screw holding the knob, until you are hap
 > Look at the plate movement from the side too, a consequence of the anti backlash split of the knobs is that the plate may tend to pull up on one side. 
 > The compression applied by the screws prevents this too, and I found that the best result is achieved by keeping the side which pulls up a bit tighter than the other.
 
-If you are assembling the fine movement version, install now the fine movement knob using the M3x20 and M3 locknut.
+If you are assembling the fine movement version, install now the fine movement knob using the M3x20 and M3 locknut. 
+
+>You may notice that there is a spot where the knobs and rack system runs more or less smooth due to imperfections of the print and alignment. The rack will not use one full turn of either of the knobs, so there is no harm in trying different orientations to look for the "alignment of the sweetspots".  
 
 Install the backers and rail in the module body, folowed by the lower plate and knobs, with the same procedure and cares used for the previous stage.
