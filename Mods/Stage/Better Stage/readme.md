@@ -1,7 +1,5 @@
 # Better Stage
 
-**WARNING! This mod is not fully tested, and it has a ton of moving parts and gears, here be dragons**
-
 ![/Mods/Stage/Better%20Stage/render.png](/Mods/Stage/Better%20Stage/render.png) ![/Mods/Stage/Better%20Stage/render_fine.png](/Mods/Stage/Better%20Stage/render_fine.png)
 
 This mod addresses some major useability downsides with the dual M5 screw movement of the standard module.
@@ -9,7 +7,7 @@ The independent rack and pinion movement for x and y prevents the binding issue 
 
 Despite being more complex, it is also easier to assemble and maintain.
 
-> There is a basic version and a variant with fine movement knobs, if in doubt, print the latter, there is always tome to remove the fine movement knobs if you change your mind, and replace them with the blank plugs which are also provided, going the other way wastes a lot of plastic.
+> There is a basic version and a variant with fine movement knobs, if in doubt, print the latter, there is always time to remove the fine movement knobs if you change your mind, and replace them with the blank plugs which are also provided, going the other way wastes a lot of plastic.
 
 
 ## Bill of Materials
@@ -23,7 +21,7 @@ Despite being more complex, it is also easier to assemble and maintain.
 - 7x M3 locknuts.
 
 - 5x M3x10 for adjusting the rails 
-> M3x12 will also work, they will just stick out a bit more
+> M3x12 or longer will also work, they will just stick out a bit more
 
 - 2x M3x16 for holding the knobs
 
