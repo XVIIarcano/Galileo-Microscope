@@ -25,7 +25,9 @@ Wood or other materials would also work, as long as the material is rigid and th
 
 - 3x M3x30 SHCS screws and M3 nuts for the anti backlash ring
 
-- 2x M3x12 SHCS screws for the slide backers
+- 2x M3x12 or M3x8 SHCS screws for the slide backers
+
+- 3x M3x8 SHCS screws and M3 nuts for the TPU feet (optional)
 
 - Superlube grease or similar, oil may or may not work, I think grease is better and easier to manage, you will have to glue parts next to greased surfaces, so it would be better if it doesn't spill.
 
