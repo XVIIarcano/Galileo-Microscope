@@ -48,11 +48,17 @@ The slots in the module and upper plate are open on the ends, meaning that the P
 
 Add the M3 locknuts in the slots on the module and lower plate, and M3x10 or M3x12 screws, but to not tighten them yet, give them just a couple of turns so that neither the screws nor the nuts can fall out. 
 
+![/Mods/Stage/Better%20Stage/pictures/rail%20nuts.png](/Mods/Stage/Better%20Stage/pictures/rail%20nuts.png) 
+
 Assemble the knobs by placing springs in the slots of the lower half, then leaning the upper half on it, and with the help of any flat tool (I used the back of a knife, but be safe) compress the springs so that they snap in the upper slots too.
 The spring pressure should be enough to keep the two sides together. If you have troubles keeping the wheels aligned while you compress the springs, you can pass the M3x16 screw in them and a temporary M3 nut. 
 
+![/Mods/Stage/Better%20Stage/pictures/springs.png](/Mods/Stage/Better%20Stage/pictures/springs.png)
+
 Prepare the upper plate by adding 2 M3x8 screws in the large holes, thread them in the plastic, until the head pokes out by a bit less than 1 mm, these will serve as stoppers for the slides, so they must be about the same height but not taller.
 Install also the clips using the M3 screws and nuts that should be included with them.
+
+![/Mods/Stage/Better%20Stage/pictures/upper%20plate.png](/Mods/Stage/Better%20Stage/pictures/upper%20plate.png)
 
 Insert the backers in the module and upper plate, they should snap fit and will be held in place by the plates, if they are loose, you can use a tiny bit of paper to shim them.
 They must be level with the rack on the lower and upper plates to prevent it from tilting as the wheel moves past the centerpoint.
@@ -63,6 +69,8 @@ Insert the rail in the back of the lower plate, followed by the upper plate whic
 Insert the lower knob in the module, aligning the teeth with the rack on the upper plate.
 Secure it with the locknut on the bottom of the lower plate and the M3x16 screw.
 You may add some grease on the bottom of the knob, but do not grease the teeth especially if you will use the fine focusing version, or you will get greasy fingers when you turn it. 
+
+![/Mods/Stage/Better%20Stage/pictures/knob%20nuts.png](/Mods/Stage/Better%20Stage/pictures/knob%20nuts.png)
 
 Now it is time to tighten the screws on the back of the rail.
 Start by tightening them equally until they are in contact with the rail, then by another couple of turns.
