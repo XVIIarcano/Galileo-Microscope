@@ -86,8 +86,6 @@ Towards the end of the knob insertion, align it with the nut in the cart, so tha
 Glue the diffuser ring to a sheet of oven paper, and cut out the excess, you can put this in the slot on the floor of the stage module to prevent wet samples from dripping in the illumination stage.
 You can use a 3mm disk of acrylic if you have any around, it will do a much better job and look nicer too, but I would not go buy a sheet just for this.
 
-
-
 ### Standoffs
 
 Not much to see here either, if you opt for the plain standoffs just slide them in place.
@@ -116,9 +114,13 @@ Add some grease on the central and upper part of the optical tube, avoid greasin
 
 Insert the tube in the spider from below, rotating the focusing knob as soon as it catches the threads on the tube so that you can draw it up. Be careful, the knob is not glued to the ring yet and there are no screws preventing the nuts inside from being dislodged if it lifts.
 
+![Pictures/instructions%20optical](/Pictures/instructions%20optical.png)
+
 Insert the springs in the holes on top of the knob, then add the anti backlash ring, tighten it down until it compresses the springs. A couple millimeters clearance should remain between the two rings, there are two sets of holes on the backlash ring so that you can adjust it in half a turn increments, you can change this later based on your preference.
 
 Use M3x30 screws trough the backlash springs and down to the nuts in the focus ring to secure the assembly together, do not overtighten the screws, and make sure the backlash ring is not tilted.
+
+![Pictures/instructions%20optical%20detail](/Pictures/instructions%20optical%20detail.png)
 
 Test the assembly a few times, any stiffness should break in soon as the surfaces wear a little and the grease spreads.
 If you are happy with the results, you can now push the optical tube up, this will detach the focus knob from the split ring, but the nuts are now secure, so you can add the glue and press it back down.   
