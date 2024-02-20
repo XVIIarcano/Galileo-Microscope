@@ -48,6 +48,8 @@ Glue the walls of the cover and reverse the base upside down on it, wait for the
 
 - Slide in the aluminum rods, and secure them with the M5 nuts and M5x12 screws. 
 
+![Pictures/instructions%20base.png](/Pictures/instructions%20base.png)
+
 ### Lighting (bring your own)
 
 Nothing to do here, just stack it in place.   
@@ -68,18 +70,23 @@ Add the clips in the small holes, using the recesses for the nuts on the undersi
 
 Insert a span of 4 mm PTFE tube in the slot on the underside of the cart, it will help it slide smoothly.   The tube should snap fit in the slot, push it one section at a time pressing down with a spoon going around the circle, cut off the excess when you get close to the end, cut as close as possible to get a seamless ring, but avoid the two ends bumping into each other and pushing out. 
 
-Insert an M5x80 hexagon head bolt in the knobs (recommended), or use one locknut and one capnut as shown in the photo (deprecated).
+![Pictures/instructions%20stage.png](/Pictures/instructions%20stage.png)
 
-![Pictures/instructions1.jpg](/Pictures/instructions1.jpg)
+Insert an M5x80 hexagon head bolt in the knobs.  
 
 Place the knobs with a washer on each side of the slit in the module body, then tighten a lock nut on the inside by holding it with a wrench as you turn the knob, as shown in the picture, it should be tight enough to hold the knobs in, but free to spin and slide side to side (as soon as you use it, you will get a feeling of how tight they should be - not much actually - and you can adjust to taste)
 
+Towards the end of the knob insertion, align it with the nut in the cart, so that it will be pulled in.  Do not worry if the screw exits inside the cart by about 1 cm, even at low magnifications, it will remain well outside of the field of view and it won't cast a shadow.
+![Pictures/instructions%20stage%20detail](/Pictures/instructions%20stage%20detail.png)
 ![Pictures/instructions2.jpg](/Pictures/instructions2.jpg)
 
-Towards the end of the knob insertion, align it with the nut in the cart, so that it will be pulled in.  Do not worry if the screw exits inside the cart by about 1 cm, even at low magnifications, it will remain well outside of the field of view and it won't cast a shadow.
+>If you have trouble finidng the M5x80 bolts, you can use one locknut and one capnut as shown in the photo but it is not recommended, as they will want to come loose while you tighten the other locknut.
+>![Pictures/instructions1.jpg](/Pictures/instructions1.jpg)
 
 Glue the diffuser ring to a sheet of oven paper, and cut out the excess, you can put this in the slot on the floor of the stage module to prevent wet samples from dripping in the illumination stage.
 You can use a 3mm disk of acrylic if you have any around, it will do a much better job and look nicer too, but I would not go buy a sheet just for this.
+
+
 
 ### Standoffs
 

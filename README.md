@@ -15,7 +15,7 @@ If you are looking for a DIY microscope already designed from the ground up to b
 
 That said, it works, including the stage movement despite ample margins of improvement, and I hereby summon **The Rotifer Of Proof!**
 
-![Pictures/Rotifer_of_proof.PNG](/Pictures/Rotifer_of_proof.gif)
+![Pictures/ciliates%20of%20proof.gif](/Pictures/ciliates%20of%20proof.gif)
 
 Curious? Enthusiastic? Need to ~insult me~ _politely question my design choices_?
 [**Join us on Discord**](https://discord.gg/2NHQUmsnHg)
