@@ -1,12 +1,10 @@
 # Base with drawers
 
-**WARNING! This mod is still untested, I don't foresee anything possibly going wrong with a design this simple, but still...**
-
 ![/Mods/Base/Base%20with%20drawers/render.png](/Mods/Base/Base%20with%20drawers/render.png)
 
 ## Bill of Materials
 
-**This mod only replaces the design of the base module adding some internal space, screws for the rubber feet and for locking the pipes are unchanged froom the standard version.**
+**This mod only replaces the design of the base module adding some internal space, screws for the rubber feet and for locking the pipes are unchanged from the standard version.**
 
 - One set of printed parts, printed using the same settings as the rest of the microscope.  
 There is an option for either the normal drawers with slots in the bottom for magnets, or simpler darwers to just print in vase mode.  
