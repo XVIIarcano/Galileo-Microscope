@@ -25,7 +25,7 @@ Assemble the rotor by joining the petals together with the M3x10 screws and nuts
 
 Slide the M3 lock nut in the slanted slot of the hub, note that it slides flat side down.
 
->[TIP!]
+>[!TIP]
 >The next steps are more comfortable if you remove the spider with the optical group from the microscope and keep it pointing upwards with the help of the smartphone support, just be careful not to scratch your eyepiece.
 
 Add the gear nut to the bottom of the focusing tube, give it a couple of turns until it is out of the way.
