@@ -80,8 +80,8 @@ Towards the end of the knob insertion, align it with the nut in the cart, so tha
 ![Pictures/instructions%20stage%20detail](/Pictures/instructions%20stage%20detail.png)
 ![Pictures/instructions2.jpg](/Pictures/instructions2.jpg)
 
->If you have trouble finidng the M5x80 bolts, you can use one locknut and one capnut as shown in the photo but it is not recommended, as they will want to come loose while you tighten the other locknut.
->![Pictures/instructions1.jpg](/Pictures/instructions1.jpg)
+>If you have trouble finidng the M5x80 bolts, you can use one locknut and one capnut at the end of the threaded rod in the knob, but it is not recommended as they will want to come loose while you tighten the other locknut.
+
 
 Glue the diffuser ring to a sheet of oven paper, and cut out the excess, you can put this in the slot on the floor of the stage module to prevent wet samples from dripping in the illumination stage.
 You can use a 3mm disk of acrylic if you have any around, it will do a much better job and look nicer too, but I would not go buy a sheet just for this.
