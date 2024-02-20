@@ -41,5 +41,5 @@ Press the screw to compress the spring, then turn it to engage the lock nut and 
 
 Adjust the tension of the spring to your liking, it should be easy to turn, but also hold the rotor firmly enough in its three stable positions.
 
-You can now add the objectives, and if you had removed and flipped the optical module, you can now reposition it on the microscope, checking that the objectives can rotate freely all aroud.
+You can now add the objectives, and if you had removed and flipped the optical module, you can now reposition it on the microscope, checking that the objectives can rotate freely all around.
 The space should be enoughto fit most objectives, but the longer ones may interfere with the thicker threaded standoff and smartphone holder or anything attached to it, so either may need to be reoriented.
