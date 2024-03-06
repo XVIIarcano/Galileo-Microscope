@@ -64,7 +64,7 @@ Having this module open towards the front is handy, but it may bump against the 
 
 Add M5 nuts in the verticasl slots of the cart.
 
-Add M3x8 screws in the large holes on the cart, thread them in the plastic, until the head pokes out by a bit less than 1 mm, these will serve as stoppers for the slides, so they must be about the same height but not taller.
+Add M3x8 screws in the large holes on the cart, thread them in the plastic, until the head pokes out by about 1 mm, these will serve as stoppers for the slides, so they must be about the same height but don't need to be taller.
 
 Add the clips in the small holes, using the recesses for the nuts on the underside of the cart.
 
