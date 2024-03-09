@@ -1,14 +1,16 @@
 # Bill of materials and microscope components
 
 >[!CAUTION]
->This documentation is written by me, a salesman of totally unrelated goods with a degree in Political Sciences.  I write based on my personal experience, opinions, expectations and whatever I could understand from doing my own research.
->**Do your own research too before committing money to this project, no refunds.**
+>This documentation is written by me, a salesman of totally unrelated goods with a degree in Political Sciences.  I write based on my personal experience, opinions, expectations and whatever I could understand from doing my own research.  
+Some skilled and awesome pioneers have already completed their own builds with good results but...  
+
+>**...Do your own research too before committing money to this project, no refunds.**
 
 ## 3d printed parts
 
 Please read the [Printing and assembling](/Printing_and_assembling.md) file, there are a couple variants to choose from, and some tips about printing, so read it all at least once before you start pushing plastic.
 
-For the sake of the shopping list, one spool of either PLA or PETG should be enough to complete the project, but the result may look boring, I went for a two color scheme (one for the structure and another one for the gears and knobs), plus there are the optional TPU feet. 
+For the sake of the shopping list, one spool of either PLA or PETG (ABS+ has been succesfully used as well) should be enough to complete the project, but printing all in one color the result may look boring, I suggest a two color scheme (one for the structure and another one for the gears and knobs), plus there are the optional TPU feet. 
 
 The only caveat about color selection is that technically the inside of the optical tube should be matte black to avoid bouncing light around, which would cause a halo effect in the view, different colors and conditions may affect the results, but as a measure of caution stay away from canary yellow and glow in the dark filaments.
 

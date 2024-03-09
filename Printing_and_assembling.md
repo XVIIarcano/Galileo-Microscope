@@ -13,7 +13,7 @@ In particular your objective will need a specific focus tube lenghts, the DIN st
 
 The microscope is not subject to heat (unless something goes horribly wrong with the lighting module or you put something reactive on the stage).
 
-All prototyping has been done in PETG, the extra rigidity and general easier printing of PLA should only improve the results, ABS may be both overkill and introduce some unexpected tolerance issues due to shrinking, I do not recommend it, but I may revise this paragraph if sufficient empyrical results emerge from people trying it none the less.
+All prototyping has been done in PETG, the extra rigidity and general easier printing of PLA should only improve the results, ABS may be overkill but it has been tested succesfully(Esun ABS+ specifically, thanks discord @roo) and it did not introduce any unexpected tolerance issues due to shrinking, so I can remove the previous warning about it.
 
 As mentioned in the [BOM and components](/BOM_and_components.md) file, prefer a matte black material for the optical tube for the best optical performance.
 
