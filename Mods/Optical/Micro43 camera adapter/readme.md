@@ -1,5 +1,7 @@
 # Micro 4/3 camera adapter
 
+![/Mods/Optical/Micro43%20camera%20adapter/adapter.jpg](/Mods/Optical/Micro43%20camera%20adapter/adapter.jpg)
+
 This adapter allows to attach a Micro 4/3 camera (tested with an OM-D E-M5 mkII) in place of the 23.2 mm eyepiece of the microscope.
 
 For best results, enable the silent/electronic shutter with a 2 seconds delay, otherwise the kick of the mechanical shutter is enough to compromise the crispness of the image.
