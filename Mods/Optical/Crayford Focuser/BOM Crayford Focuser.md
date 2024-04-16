@@ -6,11 +6,13 @@ BOM for Crayford Focuser
 
 3 x M5x12 SHCS -- https://www.accu.co.uk/metric-cap-head-screws/3850-SSCF-M5-12-A2
 
-9 x 4x3x5 Heat Set Inserts -- https://shop4fasteners.co.uk/heat-ultrasonic-threaded-inserts-brass-m3-x-5-74mm.html
+7 x 4x3x5 Heat Set Inserts -- https://shop4fasteners.co.uk/heat-ultrasonic-threaded-inserts-brass-m3-x-5-74mm.html
 
-9 x M3x8 SHCS -- https://www.accu.co.uk/metric-cap-head-screws/3818-SSCF-M3-8-A2
+7 x M3x8 SHCS -- https://www.accu.co.uk/metric-cap-head-screws/3818-SSCF-M3-8-A2
 
-4 x M4x25 SHCS -- https://www.accu.co.uk/metric-cap-head-screws/2830-SSC-M4-25-A2
+2 x M3x6 SHCS -- https://www.accu.co.uk/metric-cap-head-screws/3818-SSCF-M3-6-A2
+
+4 x M4x20 SHCS -- https://www.accu.co.uk/metric-cap-head-screws/2830-SSC-M4-25-A2
 
 4 x 'U' Groove 4mm x 13mm x 4mm Bearings -- https://www.amazon.co.uk/gp/product/B07V7Y1VVT/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
