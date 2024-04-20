@@ -1,4 +1,4 @@
-_Originally published on printables.com by user LarryD
+_Originally published on printables.com by user LarryD_
 
 #Description
 
