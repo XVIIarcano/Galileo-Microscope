@@ -68,9 +68,12 @@ Below is a small list of things I would like to see, but have not been included 
 
 - ~~Better movement, possibly with backlash compensation for the stage module~~ *(check the MODs folder!)*
 - ~~Base alternative with some internal storage or some other solution to store stuff within the cylinder footprint when not in use~~ *(check the MODs folder!)*
-- **NEW NO.1 PRIORITY** An advanced lighting module with its own light source and the possibility to mount a condenser and other amenities.  
+- **NEW NO.1 PRIORITY** An advanced lighting module with its own light source and the possibility to mount a condenser and other amenities. *(There are some exciting developments! check the MODs folder and printables.com!)*
 - ~~Fine focusing on the optical group~~ *(check the MODs folder!)*, or a finer pitch option for the main focusing tube, or both! 
 - A better phone holder  
+
+**Thanks to @MMutch on discord and @LarryD on Printables for working on their respective mods, and I hope this list can keep growing :)**
+
 
 ## Licensing
 
