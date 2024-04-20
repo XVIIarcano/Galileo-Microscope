@@ -12,12 +12,12 @@ I think the rest can be seen in the photos.
 
 Parts List:
 
-Slide Switch 
-LEDs
-Double Sided Clear VHB Tape
-22 AWG Wire
-(3) M3 x 22 SHCS (for TOP Light Arm)
-(3) M3  StopNuts
-(2) M3 x 12 SHCS (for switch)
-(2) M3 Nuts
-Small Piece of plastic milk carton cut to fit opening over BOTTOM LEDs as diffuser
+Slide Switch   
+LEDs  
+Double Sided Clear VHB Tape  
+22 AWG Wire  
+(3) M3 x 22 SHCS (for TOP Light Arm)  
+(3) M3  StopNuts  
+(2) M3 x 12 SHCS (for switch)  
+(2) M3 Nuts  
+Small Piece of plastic milk carton cut to fit opening over BOTTOM LEDs as diffuser  
