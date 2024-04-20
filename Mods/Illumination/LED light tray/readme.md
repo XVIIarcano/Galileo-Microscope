@@ -1,6 +1,6 @@
 _Originally published on printables.com by user LarryD_
 
-#Description
+# Description
 
 Designed this LED light to slide into the phone illumination module for the GALILEO Modular Microscope.  All of the parts were printed in Hatchbox PLA with the exception of the strain relief grommet which is PETG.  Note that the grommet will not fit unless it is printed at 69% in the X,Y directions and 100% Z direction.  I tried to make the changes in the grommet CAD file but it blows up when reduced that far.
 
