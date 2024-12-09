@@ -1,6 +1,6 @@
 _contributed by discord user MMutch_
 
-![/Mods/Optical/Crayford Focuser/crayford.jpg](/Mods/Optical/CrayfordFocuser/crayford.jpg)
+![/Mods/Optical/Crayford Focuser/crayford.jpg](/Mods/Optical/Crayford%20Focuser/crayford.jpg)
 
 # Printing Instructions for the Crayford Focuser
 
