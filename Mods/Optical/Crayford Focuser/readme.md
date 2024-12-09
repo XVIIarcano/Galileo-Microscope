@@ -1,5 +1,7 @@
 _contributed by discord user MMutch_
 
+![/Mods/Optical/Crayford Focuser/crayford.jpg](/Mods/Optical/Crayford Focuser/crayford.jpg)
+
 # Printing Instructions for the Crayford Focuser
 
 Items marked with [a] are designated as accent, all others are primary colour.
