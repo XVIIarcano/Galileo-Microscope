@@ -2,7 +2,7 @@
 
 _Brought to you by @Morpion on Discord and @XVIIarcano, but mostly Morpion_
 
-![/Mods/Optical/Accessorized focus knob/Lever.png/Mods/Optical/Accessorized%20focus%20knob/Lever.png)
+![/Mods/Optical/Accessorized focus knob/Lever.png](/Mods/Optical/Accessorized%20focus%20knob/Lever.png)
 
 This modified knob and split ring allow the following:
 
