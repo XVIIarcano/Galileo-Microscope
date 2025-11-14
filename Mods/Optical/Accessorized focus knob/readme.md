@@ -20,7 +20,7 @@ This modified knob and split ring allow the following:
 - 3x M3x6 SCHS screws for securing the knob to the split ring.
 - 3x M3 nuts 
 - 1x M3x30 SCHS screw for the lever.
-- 3x M3x___ SHCS nuts for the gear ring.
+- 3x M3x20 SHCS nuts for the gear ring.
 
 ## Assembling
 
