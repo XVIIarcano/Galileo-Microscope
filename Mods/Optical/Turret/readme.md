@@ -9,6 +9,9 @@ This way you can "zoom in" or "zoom out" selecting a different magnification obj
 
 - One set of printed parts, printed with the same settings as the rest of the microscope. You can replace the spring retainer with a simple washer, it is mostly just for show.
 
+>[!TIP]
+>Printing at a finer layer height can improve the rendering of the thread, and facilitate the assembling of the objective on the petals
+
 - 6x M3x10 and M3 nuts (M3x12 will also work)
 
 - 3x M3x12 SHCS screws and M3 nuts, (M3x16 will work as well, probably even M3x20 but if you go too long you start eating focuser travel)
