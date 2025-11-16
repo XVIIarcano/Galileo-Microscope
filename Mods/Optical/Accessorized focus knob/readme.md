@@ -7,11 +7,11 @@ _Brought to you by @Morpion on Discord and @XVIIarcano, but mostly Morpion_
 
 This modified knob and split ring allow the following:
 
-- securing the knob with M3x6 screws in lieu of the glue 
+- securing the knob with M3x6 screws instead of the glue 
 
 - Attaching a lever to the knob for finer focus
 
-- Attaching a gear ring, with a matching knob on any protruding vertical post for an even finer focus
+- Attaching a gear ring, with a matching knob on any protruding vertical post for an even finer control
 
 ## Bill of Materials
 
@@ -20,7 +20,7 @@ This modified knob and split ring allow the following:
 - 3x M3x6 SCHS screws for securing the knob to the split ring.
 - 3x M3 nuts 
 - 1x M3x30 SCHS screw for the lever.
-- 3x M3x20 SHCS nuts for the gear ring.
+- 3x M3x16 SHCS nuts for the gear ring.
 
 ## Assembling
 
